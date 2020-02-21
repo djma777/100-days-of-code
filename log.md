@@ -40,3 +40,11 @@
 **Thoughts:** At first I thought, this being my 2nd time working on the project would be significantly easier, but it wasn't. My code, I believe is a lot cleaner that it was the first time, thought not yet at a level I'm satisfied at. I really like the progress I made since September last year: the working code I was able to write today, took me almost 3 weeks to accomplish 5 months ago. To be continued tomorrow...
 
 **Link to work:** [Pomodoro App](https://github.com/djma777/fcc-pomodoro-clock-v2)
+
+### Day 1: February 21, 2020
+
+**Today's Progress**: Still Working on V2 of my Pomodoro Clock project for freeCodeCamp and revisiting Redux, data structures sections on the fcc curriculum.
+
+**Thoughts:** I wrote quite a lot of custom hooks today. A lot for me at least. And I love it - not the pain in my head though. I'm still not passing some tests that I couldn't quite figure out, I decided to post for help on the fcc forum. Hopefully get some answers tomorrow, and finish the project with or without help. I felt that I needed to revisit some topics on the fcc curriculum and so I am doing just that.
+
+**Link to work:** [Pomodoro App](https://github.com/djma777/fcc-pomodoro-clock-v2)
