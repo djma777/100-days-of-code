@@ -48,3 +48,11 @@
 **Thoughts:** I wrote quite a lot of custom hooks today. A lot for me at least. And I love it - not the pain in my head though. I'm still not passing some tests that I couldn't quite figure out, I decided to post for help on the fcc forum. Hopefully get some answers tomorrow, and finish the project with or without help. I felt that I needed to revisit some topics on the fcc curriculum and so I am doing just that.
 
 **Link to work:** [Pomodoro App](https://github.com/djma777/fcc-pomodoro-clock-v2)
+
+### Day 2: February 22, 2020
+
+**Today's Progress**: Still Working on V2 of my Pomodoro Clock project for freeCodeCamp.
+
+**Thoughts:** I refactored most of my code today, but still ended up with almost the same problem. I'm feeling optimistic that I will finish the project tomorrow.
+
+**Link to work:** [Pomodoro App](https://github.com/djma777/fcc-pomodoro-clock-v2)
