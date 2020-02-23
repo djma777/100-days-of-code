@@ -56,3 +56,11 @@
 **Thoughts:** I refactored most of my code today, but still ended up with almost the same problem. I'm feeling optimistic that I will finish the project tomorrow.
 
 **Link to work:** [Pomodoro App](https://github.com/djma777/fcc-pomodoro-clock-v2)
+
+### Day 3: February 23, 2020
+
+**Today's Progress**: Still Working on V2 of my Pomodoro Clock project for freeCodeCamp.
+
+**Thoughts:** Well, I couldn't quite finish it today, but at least I got to 28/29. I'm hoping to get some answers from my freeCodeCamp forum post to help me solve the last test failure. It seems like a really eassy problem but I couldn't just figure it out for some reason. Looking forward to tomorrow.
+
+**Link to work:** [Pomodoro App](https://github.com/djma777/fcc-pomodoro-clock-v2)
