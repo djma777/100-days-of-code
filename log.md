@@ -72,3 +72,12 @@
 **Thoughts:** I'm very pleased to have finally achieved 29/29 on the tests. I've barely started designing the app, but my brain is now to exhausted. I will finish this design tomorrow.
 
 **Link to work:** [Pomodoro App](https://github.com/djma777/fcc-pomodoro-clock-v2)
+
+### Day 5: February 25, 2020
+
+**Today's Progress**: Finished my Pomodoro Clock project today. Small Victories!
+
+**Thoughts:** I finished my basic design on the project, and cleaned up my files a bit. After these I'm revisiting redux, react-redux lessons on freecodecamp. It feels easy as expected -- what a relief, but I'm not going through like a breeze because I haven't mastered React and Redux at all. I will keep pushing!
+
+**Link to Github code:** [Pomodoro App](https://github.com/djma777/fcc-pomodoro-clock-v2)
+**Link to Netlify deployed app:** [Pomodoro App](https://fcc-pomodoro-clock-proj.netlify.com/)
