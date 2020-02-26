@@ -81,3 +81,9 @@
 
 **Link to Github code:** [Pomodoro App](https://github.com/djma777/fcc-pomodoro-clock-v2)
 **Link to Netlify deployed app:** [Pomodoro App](https://fcc-pomodoro-clock-proj.netlify.com/)
+
+### Day 6: February 26, 2020
+
+**Today's Progress**: Revisiting D3JS lessons at freeCodeCamp in order to complete visualization certificate.
+
+**Thoughts:** I've been considering myself a full stack javascript developer (very beginner level) for a few months now because I know both front end and back end, but I have yet to complete the freeCodeCamp full stack curriculum. I still need to finish the d3 projects (data visualization). Although I have finished the lessons a few months back, that time my mind was overloaded with all the fresh learning in HTML, CSS, Front end libraries, etc. Revisiting it now, to my surprise (but somewhat expected), I actually am absorbing the lessons much easier and I can dare say I actually understand the \*\*\*\* I'm reading. I'm stoked!
