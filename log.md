@@ -95,3 +95,12 @@
 **Thoughts:** Today I spent more time reading the d3js docs than coding... Hoping I would be able to make some significant progress tomorrow. Also had some difficulty publishing to github pages. Maybe I'll make progress with that also by tomorrow.
 
 **Link to Github code:** [Bar Chart](https://github.com/djma777/fcc-bar-chart-proj)
+
+### Day 8: February 28, 2020
+
+**Today's Progress**: Completed Bar Chart Project.
+
+**Thoughts:** There is so much to learn in visualization. I'm finishing this project just getting the 14/14 score with very minimal details and design.
+
+**Link to Github code:** [Bar Chart Code](https://github.com/djma777/fcc-bar-chart-proj)
+**Link to Github Page:** [Bar Chart Page](https://djma777.github.io/fcc-bar-chart-proj/)
