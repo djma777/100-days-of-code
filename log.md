@@ -104,3 +104,12 @@
 
 **Link to Github code:** [Bar Chart Code](https://github.com/djma777/fcc-bar-chart-proj)
 **Link to Github Page:** [Bar Chart Page](https://djma777.github.io/fcc-bar-chart-proj/)
+
+### Day 9: February 29, 2020
+
+**Today's Progress**: Started Scatterplot Graph Project.
+
+**Thoughts:** I haven't done much today. First half of the day we didn't have internet connection, so I binge watched the second half of Netflix's Altered Carbon. I was able to render the xAxis of the graph. Working on the yAxis, it is rendered on the correct side, but i'm still learning how the data is plotted. Back at this tomorrow.
+
+**Link to Github code:** [Scatterplot Chart Code](https://github.com/djma777/fcc-scatterplot-graph-proj)
+**Link to Github Page:** [Scatterplot Chart Page](https://djma777.github.io/fcc-scatterplot-graph-proj/)
