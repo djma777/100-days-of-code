@@ -113,3 +113,12 @@
 
 **Link to Github code:** [Scatterplot Chart Code](https://github.com/djma777/fcc-scatterplot-graph-proj)
 **Link to Github Page:** [Scatterplot Chart Page](https://djma777.github.io/fcc-scatterplot-graph-proj/)
+
+### Day 10: March 1, 2020
+
+**Today's Progress**: Finished Scatterplot Graph project 16/16.
+
+**Thoughts:** I feel the guilt of cheating to pass a test... But, I have no other way of learning D3 but to see and study someone else's code and write it myself. The documentation isn't comprehensive enough for a newbie like me. I feel like you have to have actual knowledge in Data Science or Data Visualization itself, to be able to fully comprehend the D3 docs. But I'm confident I'm learning the code as I study and rewrite it for my project. Moving on to the next.
+
+**Link to Github code:** [Scatterplot Chart Code](https://github.com/djma777/fcc-scatterplot-graph-proj)
+**Link to Github Page:** [Scatterplot Chart Page](https://djma777.github.io/fcc-scatterplot-graph-proj/)
