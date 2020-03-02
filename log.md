@@ -122,3 +122,12 @@
 
 **Link to Github code:** [Scatterplot Chart Code](https://github.com/djma777/fcc-scatterplot-graph-proj)
 **Link to Github Page:** [Scatterplot Chart Page](https://djma777.github.io/fcc-scatterplot-graph-proj/)
+
+### Day 11: March 2, 2020
+
+**Today's Progress**: Working on the Heatmap Project.
+
+**Thoughts:** Read the Getting Started section of YDKJSY and the first iteration of Dan Abramov's Just JavaScript: Mental Models. Also started working on the Heatmap project on FCC. I find it difficult to follow the docs, but it's definitely me. My understanding of data and visualization is very limited if not zero. But I'm positive I'll get through it. Back at it tomorrow.
+
+**Link to Github code:** [Scatterplot Chart Code](https://github.com/djma777/fcc-scatterplot-graph-proj)
+**Link to Github Page:** [Scatterplot Chart Page](https://djma777.github.io/fcc-scatterplot-graph-proj/)
