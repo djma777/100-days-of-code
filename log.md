@@ -131,3 +131,12 @@
 
 **Link to Github code:** [Scatterplot Chart Code](https://github.com/djma777/fcc-scatterplot-graph-proj)
 **Link to Github Page:** [Scatterplot Chart Page](https://djma777.github.io/fcc-scatterplot-graph-proj/)
+
+### Day 12: March 3, 2020
+
+**Today's Progress**: JS Readings & Still Working on the Heatmap Project.
+
+**Thoughts:** Finished my first read on YDKJSY, Get Started > CH2: Surverying JS. Finished Dan Abramov's CH2 of Just JavaScript > The JavaScript Universe. Although it's beginner content, I feel that I should still slowly read the content because I'm still a beginner. Finally making some significant progress on the heatmap project. Still some work to do, hopeful to finish this tomorrow.
+
+**Link to Github code:** [Scatterplot Chart Code](https://github.com/djma777/fcc-scatterplot-graph-proj)
+**Link to Github Page:** [Scatterplot Chart Page](https://djma777.github.io/fcc-scatterplot-graph-proj/)
