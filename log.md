@@ -129,8 +129,8 @@
 
 **Thoughts:** Read the Getting Started section of YDKJSY and the first iteration of Dan Abramov's Just JavaScript: Mental Models. Also started working on the Heatmap project on FCC. I find it difficult to follow the docs, but it's definitely me. My understanding of data and visualization is very limited if not zero. But I'm positive I'll get through it. Back at it tomorrow.
 
-**Link to Github code:** [Scatterplot Chart Code](https://github.com/djma777/fcc-scatterplot-graph-proj)
-**Link to Github Page:** [Scatterplot Chart Page](https://djma777.github.io/fcc-scatterplot-graph-proj/)
+**Link to Github code:** [Heat Map Code](https://github.com/djma777/fcc-heat-map-proj)
+**Link to Github Page:** [Heat Map Page](https://djma777.github.io/fcc-heat-map-proj/)
 
 ### Day 12: March 3, 2020
 
@@ -138,5 +138,68 @@
 
 **Thoughts:** Finished my first read on YDKJSY, Get Started > CH2: Surverying JS. Finished Dan Abramov's CH2 of Just JavaScript > The JavaScript Universe. Although it's beginner content, I feel that I should still slowly read the content because I'm still a beginner. Finally making some significant progress on the heatmap project. Still some work to do, hopeful to finish this tomorrow.
 
-**Link to Github code:** [Scatterplot Chart Code](https://github.com/djma777/fcc-scatterplot-graph-proj)
-**Link to Github Page:** [Scatterplot Chart Page](https://djma777.github.io/fcc-scatterplot-graph-proj/)
+**Link to Github code:** [Heat Map Code](https://github.com/djma777/fcc-heat-map-proj)
+**Link to Github Page:** [Heat Map Page](https://djma777.github.io/fcc-heat-map-proj/)
+
+### Day 13: March 4, 2020
+
+## Today's Progress: 
+JS Readings & Still Working on the Heatmap Project.
+
+## Thoughts: 
+
+**YDKJSY, Get Started > CH2**
+
+   Finished my reading on YDKJSY, Get Started > CH2: Digging to the Roots of JS. I really like the topics discussed in this chapter, and I'm looking forward to learning about Scopes and Closures a lot more. I want to master each piece of concept in JS if that's at all possible.
+
+**Dan Abramov's CH2 of Just JavaScript > Values and Variables**
+
+*My first thoughts on this first snippet:*
+
+```JavaScript
+let reaction = 'yikes';
+reaction[0] = 'l';
+console.log(reaction);
+```
+
+1. Assign the string 'yikes' to variable reacton.
+2. Change the 1st index of the value in reaction to ths string 'l'. I think this throws an error because strings are supposed to be immutable?
+3. Log the value stored in reaction.
+
+As it turns out I'm correct. Cool! I also had to learn some markdown to properly edit this log. Another cool! XD.
+
+*My first thoughts on this second snippet:*
+
+```JavaScript
+let pet = 'Narwhal';
+pet = 'The Kraken';
+console.log(pet); // ?
+```
+
+1. Assign string 'Narwhal' to variable pet.
+2. Change the value of pet to string 'The Kraken'.
+3. Log the value of pet. This will log 'The Kraken', because The value was reassigned and not edited (or mutated).
+
+I also got the answer to this correctly. Nice!
+
+The mental model of 'wires' connecting variables to values is really good. I'll keep it.
+
+
+**FCC Heat Map Project**
+
+Finally!!! Got 18/18 and submitted my project to the FCC learn site. Funny, I was working on getting the tooltip to show up, and when I solved it, I forgot how I did. I was trying to recall it, took a couple minutes. LOL! I'm just relieved I finally finished this one. Took a lot of reading and -- shhh.. -- copying.
+
+**Markdown**
+
+Did a little markdown reading to be able to write this log properly. Found this [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/).
+
+## Link to Github code:
+
+[Heat Map Code](https://github.com/djma777/fcc-heat-map-proj)
+
+
+## Link to Github Page:
+
+[Heat Map Page](https://djma777.github.io/fcc-heat-map-proj/)
+
+
