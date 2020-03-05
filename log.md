@@ -41,6 +41,8 @@
 
 **Link to work:** [Pomodoro App](https://github.com/djma777/fcc-pomodoro-clock-v2)
 
+---
+
 ### Day 1: February 21, 2020
 
 **Today's Progress**: Still Working on V2 of my Pomodoro Clock project for freeCodeCamp and revisiting Redux, data structures sections on the fcc curriculum.
@@ -48,6 +50,8 @@
 **Thoughts:** I wrote quite a lot of custom hooks today. A lot for me at least. And I love it - not the pain in my head though. I'm still not passing some tests that I couldn't quite figure out, I decided to post for help on the fcc forum. Hopefully get some answers tomorrow, and finish the project with or without help. I felt that I needed to revisit some topics on the fcc curriculum and so I am doing just that.
 
 **Link to work:** [Pomodoro App](https://github.com/djma777/fcc-pomodoro-clock-v2)
+
+---
 
 ### Day 2: February 22, 2020
 
@@ -57,6 +61,8 @@
 
 **Link to work:** [Pomodoro App](https://github.com/djma777/fcc-pomodoro-clock-v2)
 
+---
+
 ### Day 3: February 23, 2020
 
 **Today's Progress**: Still Working on V2 of my Pomodoro Clock project for freeCodeCamp.
@@ -65,6 +71,8 @@
 
 **Link to work:** [Pomodoro App](https://github.com/djma777/fcc-pomodoro-clock-v2)
 
+---
+
 ### Day 4: February 24, 2020
 
 **Today's Progress**: Still Working on V2 of my Pomodoro Clock project for freeCodeCamp. 29/29. Finish the design tomorrow.
@@ -72,6 +80,8 @@
 **Thoughts:** I'm very pleased to have finally achieved 29/29 on the tests. I've barely started designing the app, but my brain is now to exhausted. I will finish this design tomorrow.
 
 **Link to work:** [Pomodoro App](https://github.com/djma777/fcc-pomodoro-clock-v2)
+
+---
 
 ### Day 5: February 25, 2020
 
@@ -82,11 +92,15 @@
 **Link to Github code:** [Pomodoro App](https://github.com/djma777/fcc-pomodoro-clock-v2)
 **Link to Netlify deployed app:** [Pomodoro App](https://fcc-pomodoro-clock-proj.netlify.com/)
 
+---
+
 ### Day 6: February 26, 2020
 
 **Today's Progress**: Revisiting D3JS lessons at freeCodeCamp in order to complete visualization certificate.
 
 **Thoughts:** I've been considering myself a full stack javascript developer (very beginner level) for a few months now because I know both front end and back end, but I have yet to complete the freeCodeCamp full stack curriculum. I still need to finish the d3 projects (data visualization). Although I have finished the lessons a few months back, that time my mind was overloaded with all the fresh learning in HTML, CSS, Front end libraries, etc. Revisiting it now, to my surprise (but somewhat expected), I actually am absorbing the lessons much easier and I can dare say I actually understand the \*\*\*\* I'm reading. I'm stoked!
+
+---
 
 ### Day 7: February 27, 2020
 
@@ -95,6 +109,8 @@
 **Thoughts:** Today I spent more time reading the d3js docs than coding... Hoping I would be able to make some significant progress tomorrow. Also had some difficulty publishing to github pages. Maybe I'll make progress with that also by tomorrow.
 
 **Link to Github code:** [Bar Chart](https://github.com/djma777/fcc-bar-chart-proj)
+
+---
 
 ### Day 8: February 28, 2020
 
@@ -105,6 +121,8 @@
 **Link to Github code:** [Bar Chart Code](https://github.com/djma777/fcc-bar-chart-proj)
 **Link to Github Page:** [Bar Chart Page](https://djma777.github.io/fcc-bar-chart-proj/)
 
+---
+
 ### Day 9: February 29, 2020
 
 **Today's Progress**: Started Scatterplot Graph Project.
@@ -113,6 +131,8 @@
 
 **Link to Github code:** [Scatterplot Chart Code](https://github.com/djma777/fcc-scatterplot-graph-proj)
 **Link to Github Page:** [Scatterplot Chart Page](https://djma777.github.io/fcc-scatterplot-graph-proj/)
+
+---
 
 ### Day 10: March 1, 2020
 
@@ -123,6 +143,8 @@
 **Link to Github code:** [Scatterplot Chart Code](https://github.com/djma777/fcc-scatterplot-graph-proj)
 **Link to Github Page:** [Scatterplot Chart Page](https://djma777.github.io/fcc-scatterplot-graph-proj/)
 
+---
+
 ### Day 11: March 2, 2020
 
 **Today's Progress**: Working on the Heatmap Project.
@@ -131,6 +153,8 @@
 
 **Link to Github code:** [Heat Map Code](https://github.com/djma777/fcc-heat-map-proj)
 **Link to Github Page:** [Heat Map Page](https://djma777.github.io/fcc-heat-map-proj/)
+
+---
 
 ### Day 12: March 3, 2020
 
@@ -141,20 +165,23 @@
 **Link to Github code:** [Heat Map Code](https://github.com/djma777/fcc-heat-map-proj)
 **Link to Github Page:** [Heat Map Page](https://djma777.github.io/fcc-heat-map-proj/)
 
+---
+
 ### Day 13: March 4, 2020
 
-## Today's Progress: 
+## Today's Progress:
+
 JS Readings & Still Working on the Heatmap Project.
 
-## Thoughts: 
+## Thoughts:
 
 **YDKJSY, Get Started > CH2**
 
-   Finished my reading on YDKJSY, Get Started > CH2: Digging to the Roots of JS. I really like the topics discussed in this chapter, and I'm looking forward to learning about Scopes and Closures a lot more. I want to master each piece of concept in JS if that's at all possible.
+Finished my reading on YDKJSY, Get Started > CH2: Digging to the Roots of JS. I really like the topics discussed in this chapter, and I'm looking forward to learning about Scopes and Closures a lot more. I want to master each piece of concept in JS if that's at all possible.
 
-**Dan Abramov's CH2 of Just JavaScript > Values and Variables**
+**Dan Abramov's CH3 of Just JavaScript > Values and Variables**
 
-*My first thoughts on this first snippet:*
+_My first thoughts on this first snippet:_
 
 ```JavaScript
 let reaction = 'yikes';
@@ -168,7 +195,7 @@ console.log(reaction);
 
 As it turns out I'm correct. Cool! I also had to learn some markdown to properly edit this log. Another cool! XD.
 
-*My first thoughts on this second snippet:*
+_My first thoughts on this second snippet:_
 
 ```JavaScript
 let pet = 'Narwhal';
@@ -184,7 +211,6 @@ I also got the answer to this correctly. Nice!
 
 The mental model of 'wires' connecting variables to values is really good. I'll keep it.
 
-
 **FCC Heat Map Project**
 
 Finally!!! Got 18/18 and submitted my project to the FCC learn site. Funny, I was working on getting the tooltip to show up, and when I solved it, I forgot how I did. I was trying to recall it, took a couple minutes. LOL! I'm just relieved I finally finished this one. Took a lot of reading and -- shhh.. -- copying.
@@ -197,9 +223,30 @@ Did a little markdown reading to be able to write this log properly. Found this 
 
 [Heat Map Code](https://github.com/djma777/fcc-heat-map-proj)
 
-
 ## Link to Github Page:
 
 [Heat Map Page](https://djma777.github.io/fcc-heat-map-proj/)
 
+---
 
+## **Day 14: March 5, 2020**
+
+### **Today's Progress**
+
+- **YDKJSY > Get Started > Ch4: The Big Picture**
+- **Dan Abramov's Just Javascript > CH4 > Counting the Values (Part 1)**
+- **Started working on Choropleth Map for FCC project**
+
+### **Thoughts**
+
+- I'm really excited about the rest of the book. Hopefully I don't go through an unfinished section like the previous times I read YDKJSY.
+
+- Glad this chapter is 2 parts. Numbers! Yikes!
+
+- 12/12. That actually went easier than expected. Definitely not my finest work and not the greatest learning experience ever. This went by pretty fast. There are code that I don't fully understand but somehow I can imagine how it's working. I'll take this win and move on to the next and final project.
+
+**Github Code:**
+[Choropleth Map Github Code](https://github.com/djma777/fcc-choropleth-map-proj)
+
+**Github Page:**
+[Choropleth Map Github Pages](https://djma777.github.io/fcc-choropleth-map-proj/)
