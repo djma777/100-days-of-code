@@ -250,3 +250,29 @@ Did a little markdown reading to be able to write this log properly. Found this 
 
 **Github Page:**
 [Choropleth Map Github Pages](https://djma777.github.io/fcc-choropleth-map-proj/)
+
+---
+
+## **Day 15: March 6, 2020**
+
+### **Today's Progress**
+
+- **YDKJSY > Get Started > Appendix A: Exploring Further**
+- **Dan Abramov's Just Javascript > CH4 > Counting the Values (Part 2)**
+- **Continuing work on Choropleth Map for FCC project**
+
+### **Thoughts**
+
+- Nice to read about classes and objects, because I don't get to write much of them since I mostly code with React hooks, but I'm really looking forward to writing vanilla JavaScript with all these different functions and classes.
+
+- The lesson is very concise and very clear. Smoothly transitioned from Part 1 as well. I think the idea of a function being a value is new to me, and my mind is still working on absorbing that information.
+
+- 6/12. I was able to get the cells plotted on the page, but have absolutely no idea how the code worked so I decided to stop coding and read the documentations about the functions being used to plot this treemap project.
+
+**Github Code:**
+[Choropleth Map Github Code](https://github.com/djma777/fcc-choropleth-map-proj)
+
+**Github Page:**
+[Choropleth Map Github Pages](https://djma777.github.io/fcc-choropleth-map-proj/)
+
+---
