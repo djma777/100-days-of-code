@@ -235,7 +235,7 @@ Did a little markdown reading to be able to write this log properly. Found this 
 
 - **YDKJSY > Get Started > Ch4: The Big Picture**
 - **Dan Abramov's Just Javascript > CH4 > Counting the Values (Part 1)**
-- **Started working on Choropleth Map for FCC project**
+- **Started working and Finished Choropleth Map for FCC project**
 
 ### **Thoughts**
 
@@ -259,7 +259,8 @@ Did a little markdown reading to be able to write this log properly. Found this 
 
 - **YDKJSY > Get Started > Appendix A: Exploring Further**
 - **Dan Abramov's Just Javascript > CH4 > Counting the Values (Part 2)**
-- **Continuing work on Choropleth Map for FCC project**
+- **Started work on HeatMap for FCC project**
+- **Finished Heatmap Diagram**
 
 ### **Thoughts**
 
@@ -269,10 +270,12 @@ Did a little markdown reading to be able to write this log properly. Found this 
 
 - 6/12. I was able to get the cells plotted on the page, but have absolutely no idea how the code worked so I decided to stop coding and read the documentations about the functions being used to plot this treemap project.
 
+- I couldn't stop reading the docs and testing the example project's code on my own project. I refactored to use arrow functions, but I kept most of the variable names because they make most sense. I'm hoping to continue working on d3 projects even after finishing the freecodecamp full stack certification.
+
 **Github Code:**
-[Choropleth Map Github Code](https://github.com/djma777/fcc-choropleth-map-proj)
+[Heatmap Diagram Github Code](https://github.com/djma777/fcc-treemap-diagram-proj)
 
 **Github Page:**
-[Choropleth Map Github Pages](https://djma777.github.io/fcc-choropleth-map-proj/)
+[Heatmap Diagram Github Pages](https://djma777.github.io/fcc-treemap-diagram-proj/)
 
 ---
