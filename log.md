@@ -279,3 +279,22 @@ Did a little markdown reading to be able to write this log properly. Found this 
 [Heatmap Diagram Github Pages](https://djma777.github.io/fcc-treemap-diagram-proj/)
 
 ---
+
+## Day 16: March 7, 2020.
+
+### **Today's Progress**
+
+- freeCodeCamp Full Stack Certification
+- YDKJSY > Get Started > ApB: Practice, Practice, Practice!
+- Dan Abramov's Just JavaScript > Ch6 > Equality of Values
+
+### **Thoughts**
+
+- Huge achievement! And noone to celebrate it with! Took about 7 months give or take. **Certificate Link:** [freeCodeCamp.org Full Stack Certificate](https://www.freecodecamp.org/certification/djma777/full-stack)
+- **Practice, Practice, Practice!**:
+
+  - **Practice Comparison:** [Github Gist](https://gist.github.com/djma777/8011ae43cba029187af8b92ac79362a2)
+
+Will continue all of these tomorrow including my _Just JavaScript_ reading.
+
+---
