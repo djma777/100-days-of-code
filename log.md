@@ -286,7 +286,6 @@ Did a little markdown reading to be able to write this log properly. Found this 
 
 - freeCodeCamp Full Stack Certification
 - YDKJSY > Get Started > ApB: Practice, Practice, Practice!
-- Dan Abramov's Just JavaScript > Ch6 > Equality of Values
 
 ### **Thoughts**
 
@@ -296,5 +295,25 @@ Did a little markdown reading to be able to write this log properly. Found this 
   - **Practice Comparison:** [Github Gist](https://gist.github.com/djma777/8011ae43cba029187af8b92ac79362a2)
 
 Will continue all of these tomorrow including my _Just JavaScript_ reading.
+
+---
+
+## Day 17: March 8, 2020.
+
+### **Today's Progress**
+
+- YDKJSY > Get Started > ApB: Practice, Practice, Practice!
+- Dan Abramov's Just JavaScript > Ch6 > Equality of Values
+
+### **Thoughts**
+
+- Huge achievement! And noone to celebrate it with! Took about 7 months give or take. **Certificate Link:** [freeCodeCamp.org Full Stack Certificate](https://www.freecodecamp.org/certification/djma777/full-stack)
+- **Practice, Practice, Practice!**:
+
+  - **Practice Closure:** [Github Gist](https://gist.github.com/djma777/8011ae43cba029187af8b92ac79362a2)
+
+  Didn't code as much today, but I think I'm getting the hang of closures.
+
+- The module was more of a Part 3 of values. I don't like the special cases, as it involves needing to memorize them. But, I'm sure I'll learn them with practice.
 
 ---
