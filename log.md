@@ -310,10 +310,24 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
 - Huge achievement! And noone to celebrate it with! Took about 7 months give or take. **Certificate Link:** [freeCodeCamp.org Full Stack Certificate](https://www.freecodecamp.org/certification/djma777/full-stack)
 - **Practice, Practice, Practice!**:
 
-  - **Practice Closure:** [Github Gist](https://gist.github.com/djma777/8011ae43cba029187af8b92ac79362a2)
+  - **Practice Closure:** [Github Gist](https://gist.github.com/djma777/021184d8c0820a059137615a01f06ba6)
 
   Didn't code as much today, but I think I'm getting the hang of closures.
 
 - The module was more of a Part 3 of values. I don't like the special cases, as it involves needing to memorize them. But, I'm sure I'll learn them with practice.
+
+---
+
+## Day 18: March 9, 2020.
+
+### **Today's Progress**
+
+- YDKJSY > Scope & Closures > Ch1: What is Scope?
+- Brainstorming on portfolio project
+
+### **Thoughts**
+
+- My mind is preoccupied with thoughts about the portfolio project, but I still read through. I'm going to have to read the chapter again, until I understand the subject enough.
+- I have a strong feeling that I should write my projects in TypeScript, so I started my react app with the TypeScript template. I wanted to use GatsbyJS but I was getting an NPM error which apparently is an existing issue since Oct 2019. I decided to go with CRA.
 
 ---
