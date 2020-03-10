@@ -331,3 +331,17 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
 - I have a strong feeling that I should write my projects in TypeScript, so I started my react app with the TypeScript template. I wanted to use GatsbyJS but I was getting an NPM error which apparently is an existing issue since Oct 2019. I decided to go with CRA.
 
 ---
+
+## Day 19: March 10, 2020.
+
+### **Today's Progress**
+
+- _REREAD_ YDKJSY > Scope & Closures > Ch1: What is Scope?
+- Learning about **TypeScript**
+
+### **Thoughts**
+
+- Today's reading is much better than yesterday. I can't say I understand 100%, but I definitely understand better. Looking forward to tomorrows chapter.
+- Wow! I'm so excited about TypeScript. Feels like there's so much to learn and that it will help me write programs better.
+
+---
