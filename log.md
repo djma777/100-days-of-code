@@ -345,3 +345,35 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
 - Wow! I'm so excited about TypeScript. Feels like there's so much to learn and that it will help me write programs better.
 
 ---
+
+## Day 20: March 11, 2020.
+
+### **Today's Progress**
+
+- YDKJSY > Scope & Closures > Ch2: Illustrating Lexical Scope
+- Stepping back from TypeScript for now.
+- Nextjs Tutorial.
+- Idea for Portfolio site.
+
+### **Thoughts**
+
+- Such a long way to really master JS and programming in general and I love it. I can undertand code compilation a little better now because of this chapter.
+- I decided to not go with TypeScript for now. I feel that I should really learn it slowly, after realizing that it's going to slow me down significantly at my current level. I would want to write some small toy projects in TypeScript first, then maybe refactor my bigger projects for more practice.
+- I also Barry Allen-ed myself in the Nextjs tutorial, it was really good, and it seems easy. ZEIT seems to also be a nice platform it's FREE. I didn't know how I would be able to deploy a nextjs site before so I learned gatsby first.
+- Looks like my idea for my personal portfolio is finally coming together. Nothing is final, but, I'm looking at writing 3 sites (excluding project/client sites): 1 main site, 1 gatsby site (dev blog), and a nextjs site (gamer blog). Excited!
+
+### **Links**
+
+- **Github Page:** [Main Site](https://djma777.github.io/)
+
+  - **Github:** [Code](https://djma777.github.io/)
+
+- **Dev:** [Blog](https://dj-dev-blog.netlify.com/)
+
+  - **Github:** [Code](https://github.com/djma777/dj-dev-blog)
+
+- **Gamer:** [Blog](https://dj-gamer-blog.now.sh/)
+
+  - **Github:** [Code](https://github.com/djma777/dj-gamer-blog)
+
+---
