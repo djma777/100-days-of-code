@@ -377,3 +377,31 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
   - **Github:** [Code](https://github.com/djma777/dj-gamer-blog)
 
 ---
+
+## Day 21: March 12, 2020.
+
+### **Today's Progress**
+
+- YDKJSY > Scope & Closures > Ch3: The Scope Chain
+- Working on Idea for Portfolio site.
+
+### **Thoughts**
+
+- Not much to say about the book chapter. I think pretty much these are topics that I already know, but have to master the nuances of it. I'm sure I'll have to reread the chapter again, but I will do so after the whole book.
+- We're getting there, I think my idea is really solidifying in my mind. Like, I think I'm getting the original feel that I've always wanted. My previous attempts at making a personal portfolio site felt like a copy of other websites. This time is different. I'm very excited. More work!
+
+### **Links**
+
+- **Github Page:** [Main Site](https://djma777.github.io/)
+
+  - **Github:** [Code](https://djma777.github.io/)
+
+- **Dev:** [Blog](https://dj-dev-blog.netlify.com/)
+
+  - **Github:** [Code](https://github.com/djma777/dj-dev-blog)
+
+- **Gamer:** [Blog](https://dj-gamer-blog.now.sh/)
+
+  - **Github:** [Code](https://github.com/djma777/dj-gamer-blog)
+
+---
