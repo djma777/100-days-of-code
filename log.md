@@ -405,3 +405,31 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
   - **Github:** [Code](https://github.com/djma777/dj-gamer-blog)
 
 ---
+
+## Day 22: March 13, 2020.
+
+### **Today's Progress**
+
+- YDKJSY > Scope & Closures > Ch4: Around the Global Scope
+- Working on Idea for Portfolio site.
+
+### **Thoughts**
+
+- Will need to reread this chapter the next time around.
+- So much time, so little progress. I want to be disappointed, but, I really am still learning as I go. What's nice is that I know where I'm going. One step at a time. Baby steps.
+
+### **Links**
+
+- **Github Page:** [Main Site](https://djma777.github.io/)
+
+  - **Github:** [Code](https://djma777.github.io/)
+
+- **Dev:** [Blog](https://dj-dev-blog.netlify.com/)
+
+  - **Github:** [Code](https://github.com/djma777/dj-dev-blog)
+
+- **Gamer:** [Blog](https://dj-gamer-blog.now.sh/)
+
+  - **Github:** [Code](https://github.com/djma777/dj-gamer-blog)
+
+---
