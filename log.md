@@ -433,3 +433,30 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
   - **Github:** [Code](https://github.com/djma777/dj-gamer-blog)
 
 ---
+
+## Day 23: March 14, 2020.
+
+### **Today's Progress**
+
+- YDKJSY > Scope & Closures > Ch5: The (Not So) Secret Lifecycle of Variables
+- Working on Idea for Portfolio site.
+
+### **Thoughts**
+
+- Played around with react router today. Not so much progress on the website but the learning is great!
+
+### **Links**
+
+- **Github Page:** [Main Site](https://djma777.github.io/)
+
+  - **Github:** [Code](https://djma777.github.io/)
+
+- **Dev:** [Blog](https://dj-dev-blog.netlify.com/)
+
+  - **Github:** [Code](https://github.com/djma777/dj-dev-blog)
+
+- **Gamer:** [Blog](https://dj-gamer-blog.now.sh/)
+
+  - **Github:** [Code](https://github.com/djma777/dj-gamer-blog)
+
+---
