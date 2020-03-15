@@ -460,3 +460,31 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
   - **Github:** [Code](https://github.com/djma777/dj-gamer-blog)
 
 ---
+
+## Day 24: March 15, 2020.
+
+### **Today's Progress**
+
+- YDKJSY > Scope & Closures > Ch6: Limiting Scope Exposure
+- Small progress on folio site.
+
+### **Thoughts**
+
+- What I can recall from my reading is that code readability is really important. And I know it is even before reading about it. The concepts being taught in this book is very important for me to learn and master. But I know I couldn't master JS with one run on this book. It might take 100.
+- Making small progress on my site. Added top and bottom nav bars for the layout. Still contemplating on the content. The UX is also still on the works in my mind. We'll get there.
+
+### **Links**
+
+- **Github Page:** [Main Site](https://djma777.github.io/)
+
+  - **Github:** [Code](https://djma777.github.io/)
+
+- **Dev:** [Blog](https://dj-dev-blog.netlify.com/)
+
+  - **Github:** [Code](https://github.com/djma777/dj-dev-blog)
+
+- **Gamer:** [Blog](https://dj-gamer-blog.now.sh/)
+
+  - **Github:** [Code](https://github.com/djma777/dj-gamer-blog)
+
+---
