@@ -488,3 +488,32 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
   - **Github:** [Code](https://github.com/djma777/dj-gamer-blog)
 
 ---
+
+## Day 25: March 16, 2020.
+
+### **Today's Progress**
+
+- YDKJSY > Scope & Closures > Ch7: Using Closure
+- Small progress on folio site.
+
+### **Thoughts**
+
+- Closure is a really important part of programming. I haven't mastered it yet, but I have a clear understanding of how it works now.
+- Making small progress on my site. Used react spring for some animations.. animated my burger menu and navlinks.
+- I looked into TensorFlow a bit. I was looking for a side project that would help my brain unwind from my main one - my folio. ML sounded really interesting, but seems really complicated for me at the moment. I still need a side project, dunno what this is supposed to be called.
+
+### **Links**
+
+- **Github Page:** [Main Site](https://djma777.github.io/)
+
+  - **Github:** [Code](https://djma777.github.io/)
+
+- **Dev:** [Blog](https://dj-dev-blog.netlify.com/)
+
+  - **Github:** [Code](https://github.com/djma777/dj-dev-blog)
+
+- **Gamer:** [Blog](https://dj-gamer-blog.now.sh/)
+
+  - **Github:** [Code](https://github.com/djma777/dj-gamer-blog)
+
+---
