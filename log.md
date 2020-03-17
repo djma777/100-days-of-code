@@ -517,3 +517,30 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
   - **Github:** [Code](https://github.com/djma777/dj-gamer-blog)
 
 ---
+
+## Day 26: March 17, 2020.
+
+### **Today's Progress**
+
+- YDKJSY > Scope & Closures > Ch8: The Module Pattern
+- Small progress on folio site.
+
+### **Thoughts**
+
+- Wasn't able to do much today. Still working on the my folio site. Have some ideas in mind but still very early to write about it.
+
+### **Links**
+
+- **Github Page:** [Main Site](https://djma777.github.io/)
+
+  - **Github:** [Code](https://djma777.github.io/)
+
+- **Dev:** [Blog](https://dj-dev-blog.netlify.com/)
+
+  - **Github:** [Code](https://github.com/djma777/dj-dev-blog)
+
+- **Gamer:** [Blog](https://dj-gamer-blog.now.sh/)
+
+  - **Github:** [Code](https://github.com/djma777/dj-gamer-blog)
+
+---
