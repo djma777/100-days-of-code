@@ -544,3 +544,31 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
   - **Github:** [Code](https://github.com/djma777/dj-gamer-blog)
 
 ---
+
+## Day 27: March 18, 2020.
+
+### **Today's Progress**
+
+- YDKJSY > Scope & Closures > ApA: Exploring Further
+- Experimenting on Material UI on the site
+
+### **Thoughts**
+
+- Hmm... I can't say for sure what I was able to learn, but, I'm sure that I've so much to keep learning. This is definitely not my first run on this book. Will go back as many times as I need to.
+- Did some experimenting on Material UI components on my site. Not a lot of progress to keep, but progress nonetheless. Back at this tomorrow.
+
+### **Links**
+
+- **Github Page:** [Main Site](https://djma777.github.io/)
+
+  - **Github:** [Code](https://djma777.github.io/)
+
+- **Dev:** [Blog](https://dj-dev-blog.netlify.com/)
+
+  - **Github:** [Code](https://github.com/djma777/dj-dev-blog)
+
+- **Gamer:** [Blog](https://dj-gamer-blog.now.sh/)
+
+  - **Github:** [Code](https://github.com/djma777/dj-gamer-blog)
+
+---
