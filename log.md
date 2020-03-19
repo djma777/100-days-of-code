@@ -572,3 +572,31 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
   - **Github:** [Code](https://github.com/djma777/dj-gamer-blog)
 
 ---
+
+## Day 28: March 19, 2020.
+
+### **Today's Progress**
+
+- Dan Abramov's Just JavaScript > 7 > Properties
+- Experimenting on Material UI on the site
+
+### **Thoughts**
+
+- I couldn't concentrate but read through the article. Will reread it tomorrow and reflect on it on my next log.
+- Had difficulties integrating styled components with material ui. Currently reading and experimenting on material ui's own style method.
+
+### **Links**
+
+- **Github Page:** [Main Site](https://djma777.github.io/)
+
+  - **Github:** [Code](https://djma777.github.io/)
+
+- **Dev:** [Blog](https://dj-dev-blog.netlify.com/)
+
+  - **Github:** [Code](https://github.com/djma777/dj-dev-blog)
+
+- **Gamer:** [Blog](https://dj-gamer-blog.now.sh/)
+
+  - **Github:** [Code](https://github.com/djma777/dj-gamer-blog)
+
+---
