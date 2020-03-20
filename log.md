@@ -600,3 +600,31 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
   - **Github:** [Code](https://github.com/djma777/dj-gamer-blog)
 
 ---
+
+## Day 29: March 20, 2020.
+
+### **Today's Progress**
+
+- Dan Abramov's Just JavaScript > 7 > Properties **Re-read**
+- Getting sucked in deeper by Mui
+
+### **Thoughts**
+
+- Today's reading was a lot better than yesterday. Need more practice though.
+- I found myself unintentionally getting sucked in even deeper by Mui, and I'm not sure if I like it, or more accurately: if this is a good thing. But I will go on with it, I think there will be no loss in learning Mui more. I'd probly gain a lot more if anything. Hopeful that tomorrow I will find it easier to use Mui.
+
+### **Links**
+
+- **Github Page:** [Main Site](https://djma777.github.io/)
+
+  - **Github:** [Code](https://djma777.github.io/)
+
+- **Dev:** [Blog](https://dj-dev-blog.netlify.com/)
+
+  - **Github:** [Code](https://github.com/djma777/dj-dev-blog)
+
+- **Gamer:** [Blog](https://dj-gamer-blog.now.sh/)
+
+  - **Github:** [Code](https://github.com/djma777/dj-gamer-blog)
+
+---
