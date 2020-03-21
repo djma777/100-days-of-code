@@ -628,3 +628,29 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
   - **Github:** [Code](https://github.com/djma777/dj-gamer-blog)
 
 ---
+
+## Day 30: March 21, 2020.
+
+### **Today's Progress**
+
+- Mui Mui Mui, and more Mui...
+
+### **Thoughts**
+
+- Still mostly learning the Mui API.
+
+### **Links**
+
+- **Github Page:** [Main Site](https://djma777.github.io/)
+
+  - **Github:** [Code](https://djma777.github.io/)
+
+- **Dev:** [Blog](https://dj-dev-blog.netlify.com/)
+
+  - **Github:** [Code](https://github.com/djma777/dj-dev-blog)
+
+- **Gamer:** [Blog](https://dj-gamer-blog.now.sh/)
+
+  - **Github:** [Code](https://github.com/djma777/dj-gamer-blog)
+
+---
