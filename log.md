@@ -654,3 +654,29 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
   - **Github:** [Code](https://github.com/djma777/dj-gamer-blog)
 
 ---
+
+## Day 31: March 22, 2020.
+
+### **Today's Progress**
+
+- Some Mui, Some React, Some Gatsby
+
+### **Thoughts**
+
+- Majority of today was about figuring out how to fix the Gatsby cycle of error. Seems to have been a long time issue already. Found my fix for now.
+
+### **Links**
+
+- **Github Page:** [Main Site](https://djma777.github.io/)
+
+  - **Github:** [Code](https://djma777.github.io/)
+
+- **Dev:** [Blog](https://dj-dev-blog.netlify.com/)
+
+  - **Github:** [Code](https://github.com/djma777/dj-dev-blog)
+
+- **Gamer:** [Blog](https://dj-gamer-blog.now.sh/)
+
+  - **Github:** [Code](https://github.com/djma777/dj-gamer-blog)
+
+---
