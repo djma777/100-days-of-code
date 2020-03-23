@@ -680,3 +680,39 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
   - **Github:** [Code](https://github.com/djma777/dj-gamer-blog)
 
 ---
+
+## Day 32: March 23, 2020.
+
+### **Today's Progress**
+
+- More Gatsby!
+- Some Webpack
+
+### **Thoughts**
+
+- Majority of today was figuring out the problem with Gatsby. Finally, I got advised to install a bare bone Gatsby project. And so far so good, even after installing `styled-components` and `gatsby-source-filesystem`
+
+```bash
+mkdir proj && cd proj
+yarn init -y
+git init
+yarn add react react-dom gatsby
+```
+
+- I really want to publish my own libary, or just start with my own project starter like `create-react-app`. Reviewing webpack feels to be the right starting point.
+
+### **Links**
+
+- **Github Page:** [Main Site](https://djma777.github.io/)
+
+  - **Github:** [Code](https://djma777.github.io/)
+
+- **Dev:** [Blog](https://dj-dev-blog.netlify.com/) **deleted**
+
+  - **Github:** [Code](https://github.com/djma777/dj-dev-blog) **deleted**
+
+- **Gamer:** [Blog](https://dj-gamer-blog.now.sh/)
+
+  - **Github:** [Code](https://github.com/djma777/dj-gamer-blog) **deleted**
+
+---
