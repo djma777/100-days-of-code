@@ -700,8 +700,26 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
 
   - **Github:** [Code](https://djma777.github.io/)
 
-- **Gamer:** [Blog](https://dj-gamer-blog.now.sh/)
+---
 
-  - **Github:** [Code](https://github.com/djma777/dj-gamer-blog) **deleted**
+## Day 34: March 25, 2020.
+
+### **Today's Progress**
+
+- More Gatsby! Repeats!
+- Some Webpack! Repeats!
+- Yes same stuff! Repeats!
+
+### **Thoughts**
+
+- Repeating the Gatsby tutorial until I can create pages programatically without the guide. I'm excited!
+- Continuing with the tutorial..
+- Also looked into creating CLI, will put this on hold.
+
+### **Links**
+
+- **Github Page:** [Main Site](https://djma777.github.io/)
+
+  - **Github:** [Code](https://djma777.github.io/)
 
 ---
