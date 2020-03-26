@@ -723,3 +723,25 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
   - **Github:** [Code](https://djma777.github.io/)
 
 ---
+
+## Day 35: March 26, 2020.
+
+### **Today's Progress**
+
+- Rest from Gatsby
+- More Webpack
+- FCC backend review
+
+### **Thoughts**
+
+- Just taking a day break from the Gatsby route, back at it tomorrow!
+- Continued more on the Webpack guide, seems it will take another run for me to fully comprehend eveything...
+- Most of my time today, was spend reviewing the fcc curriculum for backend. Feels good!
+
+### **Links**
+
+- **Github Page:** [Main Site](https://djma777.github.io/)
+
+  - **Github:** [Code](https://djma777.github.io/)
+
+---
