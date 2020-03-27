@@ -745,3 +745,24 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
   - **Github:** [Code](https://djma777.github.io/)
 
 ---
+
+## Day 36: March 27, 2020.
+
+### **Today's Progress**
+
+- FCC backend review
+- Gatsby createPage
+
+### **Thoughts**
+
+- So, I'm back on the fcc backend projects, and so far so good... putting emphasis on the things that I have yet to master and will do so by repition.
+- I think I ran out of juice, as I can code what I can read but not fully comprehend. Back at this tomorrow.
+- I might start to learn unity they have 3 months free premium.
+
+### **Links**
+
+- **Github Page:** [Main Site](https://djma777.github.io/)
+
+  - **Github:** [Code](https://djma777.github.io/)
+
+---
