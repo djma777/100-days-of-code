@@ -766,3 +766,21 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
   - **Github:** [Code](https://djma777.github.io/)
 
 ---
+
+## Day 37: March 28, 2020.
+
+### **Today's Progress**
+
+- first gatsby netlify cms test blog success
+
+### **Thoughts**
+
+- I'm just pleased that today after much of no progress, I finally got netlify cms to work as expected. Although it was just a test, I'm pretty confident I can replicate the result.
+
+### **Links**
+
+- **Github Page:** [Main Site](https://djma777.github.io/)
+
+  - **Github:** [Code](https://djma777.github.io/)
+
+---
