@@ -784,3 +784,25 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
   - **Github:** [Code](https://djma777.github.io/)
 
 ---
+
+## Day 38: March 29, 2020.
+
+### **Today's Progress**
+
+- netlify cms blog post working
+- personal baby project start
+- fcc backend lessons review
+
+### **Thoughts**
+
+- was able to replicate yesterday's progress using netlify cms with gatsby. the site is ready to be built with the main functionality of creating blogs working. whew!
+- feels good to actually undertand the lessons. I can clearly remember the first time going through them the comprehension was almost 0%.
+- baby project is being planned but I initiated the repo anyway.
+
+### **Links**
+
+- **Github Page:** [Main Site](https://djma777.github.io/)
+
+  - **Github:** [Code](https://djma777.github.io/)
+
+---
