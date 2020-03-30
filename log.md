@@ -806,3 +806,23 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
   - **Github:** [Code](https://djma777.github.io/)
 
 ---
+
+## Day 39: March 30, 2020.
+
+### **Today's Progress**
+
+- added some components - header, nav, logo for my layout - gatsby blog
+- started howtographql backend tutorial
+
+### **Thoughts**
+
+- I still forgot to pass the props to the styled component to access LOL
+- apparently `Array.filter` result will mutate a reference value but not a primitive value.. hmmm...
+
+### **Links**
+
+- **Github Page:** [Main Site](https://djma777.github.io/)
+
+  - **Github:** [Code](https://djma777.github.io/)
+
+---
