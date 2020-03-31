@@ -826,3 +826,24 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
   - **Github:** [Code](https://djma777.github.io/)
 
 ---
+
+## Day 40: March 31, 2020.
+
+### **Today's Progress**
+
+- fcc advanced express and nodejs review on going
+- howtographql authentication
+- riot games api proj start
+
+### **Thoughts**
+
+- so my graphql learning and fcc backend review are basically almost the same topic (backend) and will help me build my app(s) the learning is great always
+- just decided to start an api project, noticed that quite a few people use the pokemon api, gladly riot games also has a public api that i can use. cool stuff about to happen!
+
+### **Links**
+
+- **Github Page:** [Main Site](https://djma777.github.io/)
+
+  - **Github:** [Code](https://djma777.github.io/)
+
+---
