@@ -847,3 +847,23 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
   - **Github:** [Code](https://djma777.github.io/)
 
 ---
+
+## Day 41: April 1, 2020.
+
+### **Today's Progress**
+
+- fcc review
+- howtographql authentication
+
+### **Thoughts**
+
+- took a lot of time to finish the lessons but it was really worth it, only goes to show that I have lots to learn even the ones I thought I already know
+- finish the howtographql authentication part, run into some bugs and fixed them, attention to detail can make or break a developer
+
+### **Links**
+
+- **Github Page:** [Main Site](https://djma777.github.io/)
+
+  - **Github:** [Code](https://djma777.github.io/)
+
+---
