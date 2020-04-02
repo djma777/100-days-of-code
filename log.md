@@ -867,3 +867,25 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
   - **Github:** [Code](https://djma777.github.io/)
 
 ---
+
+## Day 42: April 2, 2020.
+
+### **Today's Progress**
+
+- finished the howtographql nodejs tutorial
+- looked into apollo graphql
+- working on league fan proj
+
+### **Thoughts**
+
+- most of the day was spend finishing the howtographql nodejs tutorial... a long way to go before I get comfortable with it...
+- I might use apollo server instead since it more popular
+- got the filter to work... still need a lot of work, and design, and I haven't even decided on the main feature and other features of this app
+
+### **Links**
+
+- **Github Page:** [Main Site](https://djma777.github.io/)
+
+  - **Github:** [Code](https://djma777.github.io/)
+
+---
