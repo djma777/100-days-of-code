@@ -889,3 +889,37 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
   - **Github:** [Code](https://djma777.github.io/)
 
 ---
+
+## Day 43: April 3, 2020.
+
+### **Today's Progress**
+
+- more apollog graphql
+- kompit server & client
+- working on league fan proj
+
+### **Thoughts**
+
+- for some reason at the end of today I feel like I accomplished nothing, but I actually spent 90% of the day coding, it's weird.. as I write this log, I honestly couldn't quite recall exactly what things I did
+- was able to deploy the heroku app with the apollo-server-express api with just one query LOLs but it's working! also the client is working. just a matter of time to make things more complex - one step at a time
+- added square imgs pulled from the riot api
+
+### **Links**
+
+- **Github Page:** [Main Site](https://djma777.github.io/)
+
+  - **Github:** [Code](https://djma777.github.io/)
+
+- **Github Page:** [LoL Fan Project](https://djma777.github.io/league-of-legends-fan-proj/)
+
+  - **Github:** [Code](https://github.com/djma777/league-of-legends-fan-proj)
+
+- **Github Page:** [Kompit Client Site](https://djma777.github.io/kompit-client/)
+
+  - **Github:** [Code](https://github.com/djma777/kompit-client)
+
+- **Heroku App:** [Kompit Heroku App](https://kompit-server.herokuapp.com/)
+
+  - **Github:** [Code](https://github.com/djma777/kompit-server)
+
+---
