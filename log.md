@@ -894,7 +894,7 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
 
 ### **Today's Progress**
 
-- more apollog graphql
+- more apollo graphql
 - kompit server & client
 - working on league fan proj
 
@@ -903,6 +903,36 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
 - for some reason at the end of today I feel like I accomplished nothing, but I actually spent 90% of the day coding, it's weird.. as I write this log, I honestly couldn't quite recall exactly what things I did
 - was able to deploy the heroku app with the apollo-server-express api with just one query LOLs but it's working! also the client is working. just a matter of time to make things more complex - one step at a time
 - added square imgs pulled from the riot api
+
+### **Links**
+
+- **Github Page:** [Main Site](https://djma777.github.io/)
+
+  - **Github:** [Code](https://djma777.github.io/)
+
+- **Github Page:** [LoL Fan Project](https://djma777.github.io/league-of-legends-fan-proj/)
+
+  - **Github:** [Code](https://github.com/djma777/league-of-legends-fan-proj)
+
+- **Github Page:** [Kompit Client Site](https://djma777.github.io/kompit-client/)
+
+  - **Github:** [Code](https://github.com/djma777/kompit-client)
+
+- **Heroku App:** [Kompit Heroku App](https://kompit-server.herokuapp.com/)
+
+  - **Github:** [Code](https://github.com/djma777/kompit-server)
+
+---
+
+## Day 44: April 4, 2020.
+
+### **Today's Progress**
+
+- working on league fan proj
+
+### **Thoughts**
+
+- today was all about the LoL fan proj. Spent more time than I wanted to figure out the layout and events. But it was all worth it because i'm still learning. haven't yet figured out how touch events work coz it didn't work in my code. wrote a custom hook to listen for mouse enter events.
 
 ### **Links**
 
