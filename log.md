@@ -983,3 +983,33 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
   - **Github:** [Code](https://github.com/djma777/kompit-server)
 
 ---
+
+## Day 46: April 6, 2020.
+
+### **Today's Progress**
+
+- working on league fan proj, re-learning redux
+
+### **Thoughts**
+
+- I think I understand the basics of redux now, but still ran into a problem. But I think I also figured how my app can work without redux, or I realized I didn't really need it (yet). Majority of my time was spend figuring out the layout, which I still haven't solved. I got the react-router working and making pages for each hero. Ran into a js method problem, trying to iterate through an object with a `for of` of an object literal while destructing the result of `Object.entries()`. I'm trying to return jsx but the loop seems to stop on the first item. Will try to figure this out tomorrow.
+
+### **Links**
+
+- **Github Page:** [Main Site](https://djma777.github.io/)
+
+  - **Github:** [Code](https://djma777.github.io/)
+
+- **Github Page:** [LoL Fan Project](https://djma777.github.io/league-of-legends-fan-proj/)
+
+  - **Github:** [Code](https://github.com/djma777/league-of-legends-fan-proj)
+
+- **Github Page:** [Kompit Client Site](https://djma777.github.io/kompit-client/)
+
+  - **Github:** [Code](https://github.com/djma777/kompit-client)
+
+- **Heroku App:** [Kompit Heroku App](https://kompit-server.herokuapp.com/)
+
+  - **Github:** [Code](https://github.com/djma777/kompit-server)
+
+---
