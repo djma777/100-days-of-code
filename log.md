@@ -1013,3 +1013,35 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
   - **Github:** [Code](https://github.com/djma777/kompit-server)
 
 ---
+
+## Day 47: April 7, 2020.
+
+### **Today's Progress**
+
+- fixed lol proj bug.
+- installed wsl (took a loooong time)
+
+### **Thoughts**
+
+- was able to fix the routing bug with a simple google solution 
+- was able to install wsl 1 initially but immediate bumped into a bug about renaming files/folders which is supposed to be solved in wsl 2. installing wsl 2 required me to sign up for windows insider and install an update which took most of my day. actually it isn't even finished yet while i'm writing this.
+
+### **Links**
+
+- **Github Page:** [Main Site](https://djma777.github.io/)
+
+  - **Github:** [Code](https://djma777.github.io/)
+
+- **Github Page:** [LoL Fan Project](https://djma777.github.io/league-of-legends-fan-proj/)
+
+  - **Github:** [Code](https://github.com/djma777/league-of-legends-fan-proj)
+
+- **Github Page:** [Kompit Client Site](https://djma777.github.io/kompit-client/)
+
+  - **Github:** [Code](https://github.com/djma777/kompit-client)
+
+- **Heroku App:** [Kompit Heroku App](https://kompit-server.herokuapp.com/)
+
+  - **Github:** [Code](https://github.com/djma777/kompit-server)
+
+---
