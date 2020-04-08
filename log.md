@@ -1023,8 +1023,40 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
 
 ### **Thoughts**
 
-- was able to fix the routing bug with a simple google solution 
+- was able to fix the routing bug with a simple google solution
 - was able to install wsl 1 initially but immediate bumped into a bug about renaming files/folders which is supposed to be solved in wsl 2. installing wsl 2 required me to sign up for windows insider and install an update which took most of my day. actually it isn't even finished yet while i'm writing this.
+
+### **Links**
+
+- **Github Page:** [Main Site](https://djma777.github.io/)
+
+  - **Github:** [Code](https://djma777.github.io/)
+
+- **Github Page:** [LoL Fan Project](https://djma777.github.io/league-of-legends-fan-proj/)
+
+  - **Github:** [Code](https://github.com/djma777/league-of-legends-fan-proj)
+
+- **Github Page:** [Kompit Client Site](https://djma777.github.io/kompit-client/)
+
+  - **Github:** [Code](https://github.com/djma777/kompit-client)
+
+- **Heroku App:** [Kompit Heroku App](https://kompit-server.herokuapp.com/)
+
+  - **Github:** [Code](https://github.com/djma777/kompit-server)
+
+---
+
+## Day 48: April 8, 2020.
+
+### **Today's Progress**
+
+- learning how to do card flip
+- hit a roadblock with wsl, live reloading is not working
+
+### **Thoughts**
+
+- not much coding today, more time was spent trying trying to make live reloading work on wsl, but unsuccessful. was also studying how to do card flip. have to continue this tomorrow. not feeling very well atm...
+-
 
 ### **Links**
 
