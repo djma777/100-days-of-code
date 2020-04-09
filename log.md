@@ -1077,3 +1077,37 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
   - **Github:** [Code](https://github.com/djma777/kompit-server)
 
 ---
+
+## Day 49: April 9, 2020.
+
+### **Today's Progress**
+
+- postponing card flip
+- postponing wsl 2
+- breaking down the champion data in to components in my league api project
+
+### **Thoughts**
+
+- i guess today is much like a rest day but I still wrote some code...
+- won't be doing the card flip for now, i guess until the project is done then card flip would be an update
+- breaking down the champ data into single components and started a bit of styling (like 0.1% started)
+
+### **Links**
+
+- **Github Page:** [Main Site](https://djma777.github.io/)
+
+  - **Github:** [Code](https://djma777.github.io/)
+
+- **Github Page:** [LoL Fan Project](https://djma777.github.io/league-of-legends-fan-proj/)
+
+  - **Github:** [Code](https://github.com/djma777/league-of-legends-fan-proj)
+
+- **Github Page:** [Kompit Client Site](https://djma777.github.io/kompit-client/)
+
+  - **Github:** [Code](https://github.com/djma777/kompit-client)
+
+- **Heroku App:** [Kompit Heroku App](https://kompit-server.herokuapp.com/)
+
+  - **Github:** [Code](https://github.com/djma777/kompit-server)
+
+---
