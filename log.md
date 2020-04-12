@@ -1173,3 +1173,35 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
   - **Github:** [Code](https://github.com/djma777/kompit-server)
 
 ---
+
+## Day 52: April 12, 2020.
+
+### **Today's Progress**
+
+- CRA live reload on wsl 2 now working
+- worked on my league of legends project
+
+### **Thoughts**
+
+- I feel very relieved and excited that I'm finally in the correct directory to work on wsl 2. and after changing the default directory for windows terminal the live reload for cra is finally working. woo hoo! let's go!!!!!
+- refactored some of my components from the project. still deciding on which data I should keep on the champion pages. because I still haven't figured out how to interpret some of the texts from the api. hopefully I find a guide or something.
+
+### **Links**
+
+- **Github Page:** [Main Site](https://djma777.github.io/)
+
+  - **Github:** [Code](https://djma777.github.io/)
+
+- **Github Page:** [LoL Fan Project](https://djma777.github.io/league-of-legends-fan-proj/)
+
+  - **Github:** [Code](https://github.com/djma777/league-of-legends-fan-proj)
+
+- **Github Page:** [Kompit Client Site](https://djma777.github.io/kompit-client/)
+
+  - **Github:** [Code](https://github.com/djma777/kompit-client)
+
+- **Heroku App:** [Kompit Heroku App](https://kompit-server.herokuapp.com/)
+
+  - **Github:** [Code](https://github.com/djma777/kompit-server)
+
+---
