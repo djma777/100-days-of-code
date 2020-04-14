@@ -1205,3 +1205,35 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
   - **Github:** [Code](https://github.com/djma777/kompit-server)
 
 ---
+
+## Day 53: April 13, 2020.
+
+### **Today's Progress**
+
+- Found a new cdn that has good no-need-to-parse data about champions spells, but...
+- installed docker but don't know how to use it yet
+
+### **Thoughts**
+
+- the problem with the new cdn is that I couldn't use it in local development yet, found a lead on how to resolve it and will see how it goes tomorrow...
+- took some time installing docker stuff that I don'w know how to use... but I will probly get to it soon...
+
+### **Links**
+
+- **Github Page:** [Main Site](https://djma777.github.io/)
+
+  - **Github:** [Code](https://djma777.github.io/)
+
+- **Github Page:** [LoL Fan Project](https://djma777.github.io/league-of-legends-fan-proj/)
+
+  - **Github:** [Code](https://github.com/djma777/league-of-legends-fan-proj)
+
+- **Github Page:** [Kompit Client Site](https://djma777.github.io/kompit-client/)
+
+  - **Github:** [Code](https://github.com/djma777/kompit-client)
+
+- **Heroku App:** [Kompit Heroku App](https://kompit-server.herokuapp.com/)
+
+  - **Github:** [Code](https://github.com/djma777/kompit-server)
+
+---
