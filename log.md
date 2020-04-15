@@ -1269,3 +1269,35 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
   - **Github:** [Code](https://github.com/djma777/kompit-server)
 
 ---
+
+## Day 55: April 15, 2020.
+
+### **Today's Progress**
+
+- Victory from yesterday was short lived
+- starting PokeAPI project...
+
+### **Thoughts**
+
+- It's sad, I thought everything was going to go smoothly from yesterday's victory. So, I've no idea as of yet how to make the champion data render in production. For some reason it works in development but not in the production build hosted in gh pages. I'll need some time to figure it out, but I want to work on a project that will let me work without such complications, so I'm looking for a better public api for now, putting my league of legends project on hold.
+- PokeAPI, hopefully things go smoothly. At the same time, I am thinking about just proceeding with my KOMPIT project. I might actually just work on that tomorrow. We'll see...
+
+### **Links**
+
+- **Github Page:** [Main Site](https://djma777.github.io/)
+
+  - **Github:** [Code](https://djma777.github.io/)
+
+- **Github Page:** [LoL Fan Project](https://djma777.github.io/league-of-legends-fan-proj/)
+
+  - **Github:** [Code](https://github.com/djma777/league-of-legends-fan-proj)
+
+- **Github Page:** [Kompit Client Site](https://djma777.github.io/kompit-client/)
+
+  - **Github:** [Code](https://github.com/djma777/kompit-client)
+
+- **Heroku App:** [Kompit Heroku App](https://kompit-server.herokuapp.com/)
+
+  - **Github:** [Code](https://github.com/djma777/kompit-server)
+
+---
