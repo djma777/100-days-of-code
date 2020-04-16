@@ -1301,3 +1301,39 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
   - **Github:** [Code](https://github.com/djma777/kompit-server)
 
 ---
+
+## Day 56: April 16, 2020.
+
+### **Today's Progress**
+
+- I really didn't like leaving the LoL project
+- postponing PokeAPI proj.
+
+### **Thoughts**
+
+- I just really love the game than any other api choices... I looked more into it, and the good guys at the discord server of riot devs and dev community were kind enough to give me leads. at this point, I see three possible solutions:
+  1. create my own proxy server
+  2. use the heroku cors-anywhere server
+  3. use aws lambda - or other serverless services
+- I'm really leaning towards the 3rd option, because I'm very interested to learn and use AWS services, as well as GCP and/or Azure. These are part of my learning goals as a developer.
+- sadly, I don't love pokemon as much as I do pc gaming. But I might still really work on this project in the future.
+
+### **Links**
+
+- **Github Page:** [Main Site](https://djma777.github.io/)
+
+  - **Github:** [Code](https://djma777.github.io/)
+
+- **Github Page:** [LoL Fan Project](https://djma777.github.io/better-gaming/)
+
+  - **Github:** [Code](https://github.com/djma777/better-gaming/)
+
+- **Github Page:** [Kompit Client Site](https://djma777.github.io/kompit-client/)
+
+  - **Github:** [Code](https://github.com/djma777/kompit-client)
+
+- **Heroku App:** [Kompit Heroku App](https://kompit-server.herokuapp.com/)
+
+  - **Github:** [Code](https://github.com/djma777/kompit-server)
+
+---
