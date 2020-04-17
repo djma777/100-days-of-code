@@ -1337,3 +1337,32 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
   - **Github:** [Code](https://github.com/djma777/kompit-server)
 
 ---
+
+## Day 57: April 17, 2020.
+
+### **Today's Progress**
+
+- react query working on individual champion calls, not a lot of time to code today because I started tutoring my niece and nephew for the quarantine duration. made the repo private for now til I resolve the CORS problem in prod.
+
+### **Thoughts**
+
+- 
+### **Links**
+
+- **Github Page:** [Main Site](https://djma777.github.io/)
+
+  - **Github:** [Code](https://djma777.github.io/)
+
+- **Github Page:** [LoL Fan Project](https://djma777.github.io/better-gaming/)
+
+  - **Github:** [Code](https://github.com/djma777/better-gaming/)
+
+- **Github Page:** [Kompit Client Site](https://djma777.github.io/kompit-client/)
+
+  - **Github:** [Code](https://github.com/djma777/kompit-client)
+
+- **Heroku App:** [Kompit Heroku App](https://kompit-server.herokuapp.com/)
+
+  - **Github:** [Code](https://github.com/djma777/kompit-server)
+
+---
