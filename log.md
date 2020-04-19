@@ -1342,11 +1342,42 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
 
 ### **Today's Progress**
 
-- react query working on individual champion calls, not a lot of time to code today because I started tutoring my niece and nephew for the quarantine duration. made the repo private for now til I resolve the CORS problem in prod.
+- react query working
 
 ### **Thoughts**
 
-- 
+- react query working on individual champion calls, not a lot of time to code today because I started tutoring my niece and nephew for the quarantine duration. made the repo private for now til I resolve the CORS problem in prod.
+
+### **Links**
+
+- **Github Page:** [Main Site](https://djma777.github.io/)
+
+  - **Github:** [Code](https://djma777.github.io/)
+
+- **Github Page:** [LoL Fan Project](https://djma777.github.io/better-gaming/)
+
+  - **Github:** [Code](https://github.com/djma777/better-gaming/)
+
+- **Github Page:** [Kompit Client Site](https://djma777.github.io/kompit-client/)
+
+  - **Github:** [Code](https://github.com/djma777/kompit-client)
+
+- **Heroku App:** [Kompit Heroku App](https://kompit-server.herokuapp.com/)
+
+  - **Github:** [Code](https://github.com/djma777/kompit-server)
+
+---
+
+## Day 58: April 19, 2020.
+
+### **Today's Progress**
+
+- decided to start working on my league of legends backend
+
+### **Thoughts**
+
+- I will have to replace the Kompit server with this new backend project. As it turns out this is going to be a Full Stack project anyways Front and Back - not sure about db though.
+
 ### **Links**
 
 - **Github Page:** [Main Site](https://djma777.github.io/)
