@@ -1397,3 +1397,33 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
   - **Github:** [Code](https://github.com/djma777/kompit-server)
 
 ---
+
+## Day 59: April 20, 2020.
+
+### **Today's Progress**
+
+- trying to build a graphql server for the riot league of legends api
+
+### **Thoughts**
+
+- kinda stuck on implenting graphql to serve data from riot's api, I'm able to fetch the data, but graphql is currently a headache, but I'm the problem not graphql i love it. will learn more tomorrow!!
+
+### **Links**
+
+- **Github Page:** [Main Site](https://djma777.github.io/)
+
+  - **Github:** [Code](https://djma777.github.io/)
+
+- **Github Page:** [LoL Fan Project](https://djma777.github.io/better-gaming/)
+
+  - **Github:** [Code](https://github.com/djma777/better-gaming/)
+
+- **Github Page:** [Kompit Client Site](https://djma777.github.io/kompit-client/)
+
+  - **Github:** [Code](https://github.com/djma777/kompit-client)
+
+- **Heroku App:** [Kompit Heroku App](https://kompit-server.herokuapp.com/)
+
+  - **Github:** [Code](https://github.com/djma777/kompit-server)
+
+---
