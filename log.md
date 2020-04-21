@@ -1427,3 +1427,15 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
   - **Github:** [Code](https://github.com/djma777/kompit-server)
 
 ---
+
+## Day 60: April 21, 2020.
+
+### **Today's Progress**
+
+- still unable to convert data to my graphql server
+
+### **Thoughts**
+
+- still stuck at trying to server data from ddragon into my apollo graphql server, continuing work on this tomorrow...
+
+---
