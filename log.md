@@ -1439,3 +1439,15 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
 - still stuck at trying to server data from ddragon into my apollo graphql server, continuing work on this tomorrow...
 
 ---
+
+## Day 61, 62, 63, 64: April 22, 23, 24, 25 2020.
+
+### **Today's Progress**
+
+- was able to serve the simple data to get myself started...
+
+### **Thoughts**
+
+- the last couple of days I spent visiting my code and brainstorming how I would structure the data I'm serving, do I use class or do I use json. Also, updating my laptop takes so much time, literally, almost a whole day for an update. I consider that time as coding time as well, coz even though i'm not writing code, I think code, and I dream code.
+
+---
