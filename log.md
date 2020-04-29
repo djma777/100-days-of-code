@@ -1451,3 +1451,15 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
 - the last couple of days I spent visiting my code and brainstorming how I would structure the data I'm serving, do I use class or do I use json. Also, updating my laptop takes so much time, literally, almost a whole day for an update. I consider that time as coding time as well, coz even though i'm not writing code, I think code, and I dream code.
 
 ---
+
+## Day 65: April 29, 2020.
+
+### **Today's Progress**
+
+- success on serving champion name from dataSources api
+
+### **Thoughts**
+
+- been quite distracted this past few days for a few reasons including covid19, but I never stopped thinking about this project. today I was able to serve in gql playground the champion name from the dataSource api. This is big because I've already written most of the types I need, and I just need to write a lot of boilerplate code to serve most of these data. I'll continue this tomorrow. I'm very optimistic about tomorrow's progress.
+
+---
