@@ -1463,3 +1463,16 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
 - been quite distracted this past few days for a few reasons including covid19, but I never stopped thinking about this project. today I was able to serve in gql playground the champion name from the dataSource api. This is big because I've already written most of the types I need, and I just need to write a lot of boilerplate code to serve most of these data. I'll continue this tomorrow. I'm very optimistic about tomorrow's progress.
 
 ---
+
+## Day 66: May 02, 2020.
+
+### **Today's Progress**
+
+- Wrote a lot of boilerplate for my resolvers. Implemented a 2nd api.
+
+### **Thoughts**
+
+- Yes I skipped yet another few days. Been a bit busy tutoring and distracted watching some netflix without chilling. I was able to write a few boilerplate code for my resolvers and also implemented the 2nd data source for my proxy api server. Quite successful today, haven't hit a bump that's too hard. I'm happy with that.
+- Ubuntu 20.04 feels really responsive significantly. I love it!!!
+
+---
