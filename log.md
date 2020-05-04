@@ -1485,6 +1485,6 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
 
 ### **Thoughts**
 
-- finally, I finished my champion resolver for both the said api sources. everything seems to be working fine. will have to figure out how to resolve `getChampions tomorrow, then items after that.
+- finally, I finished my champion resolvers for both the said api sources. everything seems to be working fine. will have to figure out how to resolve `getChampions tomorrow, then items after that.
 
 ---
