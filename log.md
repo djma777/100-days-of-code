@@ -1476,3 +1476,15 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
 - Ubuntu 20.04 feels really responsive significantly. I love it!!!
 
 ---
+
+## Day 67: May 04, 2020.
+
+### **Today's Progress**
+
+- finished individual champion data resolvers for both DDragon and Meraki api's
+
+### **Thoughts**
+
+- finally, I finished my champion resolver for both the said api sources. everything seems to be working fine. will have to figure out how to resolve `getChampions tomorrow, then items after that.
+
+---
