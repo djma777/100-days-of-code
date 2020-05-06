@@ -1488,3 +1488,15 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
 - finally, I finished my champion resolvers for both the said api sources. everything seems to be working fine. will have to figure out how to resolve `getChampions tomorrow, then items after that.
 
 ---
+
+## Day 68: May 06, 2020.
+
+### **Today's Progress**
+
+- `getChampions` endpoint seems to work now
+
+### **Thoughts**
+
+- Looks like I'm done with the champions api, I'm now thinking about whether to create a production build now so that I can build my frontend app, or should I proceed with the items. Hmm... will continue this tomorrow. Also, if I am to create a prod build, I have to learn how to use environment variables and webpack (again). This is so exciting.
+
+---
