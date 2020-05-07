@@ -1500,3 +1500,15 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
 - Looks like I'm done with the champions api, I'm now thinking about whether to create a production build now so that I can build my frontend app, or should I proceed with the items. Hmm... will continue this tomorrow. Also, if I am to create a prod build, I have to learn how to use environment variables and webpack (again). This is so exciting.
 
 ---
+
+## Day 69: May 07, 2020.
+
+### **Today's Progress**
+
+- learned a bit about environment variables today
+
+### **Thoughts**
+
+- while I reviewing topics about environment variables, I'm also revisiting webpack in node. apparently you need to set target=node in your webpack config if you're using express (not sure if it's the same for when you're not using expressjs).
+
+---
