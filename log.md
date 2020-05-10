@@ -1512,3 +1512,16 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
 - while I reviewing topics about environment variables, I'm also revisiting webpack in node. apparently you need to set target=node in your webpack config if you're using express (not sure if it's the same for when you're not using expressjs).
 
 ---
+
+## Day 70: May 08, 2020.
+
+### **Today's Progress**
+
+- deployed League of Legends GraphQL API to Heroku
+
+### **Thoughts**
+
+- so apparently, I had to also have Heroku install my devDependencies. Since by default doesn't do so, I learned that I needed to set `NPM_CONFIG_PRODUCTION` to `false` on the Heroku settings. After adding this environment variable and manually deploying, the api is now successfuly deployed.
+
+---
+
