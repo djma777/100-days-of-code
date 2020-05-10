@@ -1525,3 +1525,15 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
 
 ---
 
+## Day 71: May 10, 2020.
+
+### **Today's Progress**
+
+- Apollo Client working on the frontend
+
+### **Thoughts**
+
+- breaking my frontend app to use my apollo server. So far, I was able to connect my apollo client to my server. and I can extract data. the challenge is just refactoring my app to use the server instead of connecting to the api sources directly.
+
+---
+
