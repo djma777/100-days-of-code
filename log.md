@@ -1537,3 +1537,14 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
 
 ---
 
+## Day 72: May 11, 2020.
+
+### **Today's Progress**
+
+- `getChampion` api is working
+
+### **Thoughts**
+
+- hit some humps today on the frontend, but boiled down to writing the wrong query on the frontend. still continuing to refactor my code, progress I'm not so sure, maybe 25%.
+
+---
