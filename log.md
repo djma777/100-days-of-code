@@ -1548,3 +1548,15 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
 - hit some humps today on the frontend, but boiled down to writing the wrong query on the frontend. still continuing to refactor my code, progress I'm not so sure, maybe 25%.
 
 ---
+
+## Day 73: May 18, 2020.
+
+### **Today's Progress**
+
+- cleaned my code
+
+### **Thoughts**
+
+- I think my apollo client refactoring is coming together. Although my laptop really is frustrating, I'm still feeling determined that I'll get through this slump. I need some design ideas for my frontend app.
+
+---
