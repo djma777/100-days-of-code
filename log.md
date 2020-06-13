@@ -1560,3 +1560,15 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
 - I think my apollo client refactoring is coming together. Although my laptop really is frustrating, I'm still feeling determined that I'll get through this slump. I need some design ideas for my frontend app.
 
 ---
+
+## Day 74: June 13, 2020.
+
+### **Today's Progress**
+
+- doing 15 basic JS projects to practise JS
+
+### **Thoughts**
+
+- 4/15
+
+---
