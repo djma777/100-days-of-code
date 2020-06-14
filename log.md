@@ -1572,3 +1572,15 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
 - 4/15
 
 ---
+
+## Day 75: June 14, 2020.
+
+### **Today's Progress**
+
+- doing 15 basic JS projects to practise JS
+
+### **Thoughts**
+
+- 5 - 8/15. still easing through the tutorial and having fun!
+
+---
