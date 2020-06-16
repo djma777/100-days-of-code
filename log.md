@@ -1584,3 +1584,27 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
 - 5 - 8/15. still easing through the tutorial and having fun!
 
 ---
+
+## Day 76: June 15, 2020.
+
+### **Today's Progress**
+
+- doing 15 basic JS projects to practise JS
+
+### **Thoughts**
+
+- 10/15. still easing through the tutorial and having fun!
+
+---
+
+## Day 77: June 16, 2020.
+
+### **Today's Progress**
+
+- doing 15 basic JS projects to practise JS
+
+### **Thoughts**
+
+- 12/15. still easing through the tutorial and having fun!
+
+---
