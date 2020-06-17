@@ -1608,3 +1608,17 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
 - 12/15. still easing through the tutorial and having fun!
 
 ---
+
+## Day 78: June 17, 2020.
+
+### **Today's Progress**
+
+- done the 15 vanilla JS projects
+- started doing react projects
+
+### **Thoughts**
+
+- 15/15. still easing through the tutorial and having fun!
+- started doing Coding Addict's ReactJS projects
+
+---
