@@ -1622,3 +1622,16 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
 - started doing Coding Addict's ReactJS projects
 
 ---
+
+## Day 79: June 18, 2020.
+
+### **Today's Progress**
+
+- started doing react projects
+
+### **Thoughts**
+
+- 15/15. still easing through the tutorial and having fun!
+- started doing Coding Addict's ReactJS projects
+
+---
