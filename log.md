@@ -1631,7 +1631,18 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
 
 ### **Thoughts**
 
-- 15/15. still easing through the tutorial and having fun!
-- started doing Coding Addict's ReactJS projects
+- I quit entirely on Coding Addict's react projects and decided to start my own. although I did shop for Udemy courses that has projects, and I didn't have enough money on my prepaid card apparently to buy one. So I just have to start my own from scratch.
+
+---
+
+## Day 80: June 19, 2020.
+
+### **Today's Progress**
+
+- bgt bcrypt and signup api to work
+
+### **Thoughts**
+
+- After a gruelling day of trying to get bcrypt to work for my signup functionality it finally worked. I have to be honest, I feel that there's a fundamental concept that I'm missing which is the reason that took me hours to do this. On the other hand, I think it's also just experience and that this knowledge will come to me with time and effort.
 
 ---
