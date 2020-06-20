@@ -1639,10 +1639,23 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
 
 ### **Today's Progress**
 
-- bgt bcrypt and signup api to work
+- bcrypt and signup api to work
 
 ### **Thoughts**
 
 - After a gruelling day of trying to get bcrypt to work for my signup functionality it finally worked. I have to be honest, I feel that there's a fundamental concept that I'm missing which is the reason that took me hours to do this. On the other hand, I think it's also just experience and that this knowledge will come to me with time and effort.
+
+---
+
+## Day 81: June 20, 2020.
+
+### **Today's Progress**
+
+- jwt somehow working
+
+### **Thoughts**
+
+- another full day of coding, and I feel very happy, not because of how much I got working, but by how much my brain is hurting... feels bubbly could burst any second LOL. but seriously, this is the pain of learning even though I'm not sure what I'm learning omega LOL.
+- ok, so I got `jwt.sign()` working... I wrapped it in a promise because initially I was having problem using the asynchronous way, so after a few hours I reviewed how to to write a `Promise` constructor and voila, it worked.
 
 ---
