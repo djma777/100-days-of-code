@@ -1659,3 +1659,19 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
 - ok, so I got `jwt.sign()` working... I wrapped it in a promise because initially I was having problem using the asynchronous way, so after a few hours I reviewed how to to write a `Promise` constructor and voila, it worked.
 
 ---
+
+## Day 82: June 21, 2020.
+
+### **Today's Progress**
+
+- Happy Fathers' Day!
+- refactored some code, jwt seems to working
+
+### **Thoughts**
+
+- It's fathers' day yey! I haven't seen my daughter for 6 1/2 years of her life and she's 7 years old... but I believe that God has a greater plan that I cannot fathom, I trust His will, and I will keep on keepin' on!
+- I refactored some of my express server code to use middlewares instead of helper functions, I gotta say it looks a lot better now.
+- I still have a bit of confusing as to when and when not to use async functions. At the moment I just think that I want to use it almost everywhere to avoid blocking, or something like that.
+- After getting the `/signup` to seem to work with the jwt, I started looking into my client side app, well there's zero work in there just a starter CRA app. very quickly I find myself studying Formik, and this is actually exactly why I wanted to start the client app now. progress in the server gradually and then also the client. That way I think I'm learning Full Stack Development. Nice!
+
+---
