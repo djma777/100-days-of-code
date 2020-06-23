@@ -1676,7 +1676,7 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
 
 ---
 
-## Day 83: une 23, 2020.
+## Day 83: June 23, 2020.
 
 ### **Today's Progress**
 
