@@ -1675,3 +1675,15 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
 - After getting the `/signup` to seem to work with the jwt, I started looking into my client side app, well there's zero work in there just a starter CRA app. very quickly I find myself studying Formik, and this is actually exactly why I wanted to start the client app now. progress in the server gradually and then also the client. That way I think I'm learning Full Stack Development. Nice!
 
 ---
+
+## Day 83: une 23, 2020.
+
+### **Today's Progress**
+
+- sign up form working
+
+### **Thoughts**
+
+- so my sign up form is working, as well as a delete all button bumped a bit of typos.. and my brain is tired
+
+---
