@@ -1687,3 +1687,15 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
 - so my sign up form is working, as well as a delete all button bumped a bit of typos.. and my brain is tired
 
 ---
+
+## Day 84: June 24, 2020.
+
+### **Today's Progress**
+
+- login form working
+
+### **Thoughts**
+
+- the only challenge I had today which took me some time to figure out was that I couldn't log the updated state after fetching data inside the my `async handleSubmit()`. The way I solved it (sort of) was that I just rendered a div if the state changed and that worked. I think the reason the log wasn't successful was because there was not re-rendering happening so there's nothing to trigger a `console.log`. I only figured out that might be the case after actually rendering the div for the updated state.
+
+---
