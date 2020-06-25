@@ -1699,3 +1699,15 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
 - the only challenge I had today which took me some time to figure out was that I couldn't log the updated state after fetching data inside the my `async handleSubmit()`. The way I solved it (sort of) was that I just rendered a div if the state changed and that worked. I think the reason the log wasn't successful was because there was not re-rendering happening so there's nothing to trigger a `console.log`. I only figured out that might be the case after actually rendering the div for the updated state.
 
 ---
+
+## Day 85: June 25, 2020.
+
+### **Today's Progress**
+
+- back in the frontend
+
+### **Thoughts**
+
+- so i'm not sure what's the next feature I should work on in the backend, because there isn't really a route yet that I think I should protect... there's much work to be done in the frontend that's quite obvious... so i'm working on it now. still have a few things to figure out as well like creating more routes: account, cart, admin functions, etc.
+
+---
