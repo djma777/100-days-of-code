@@ -1711,3 +1711,15 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
 - so i'm not sure what's the next feature I should work on in the backend, because there isn't really a route yet that I think I should protect... there's much work to be done in the frontend that's quite obvious... so i'm working on it now. still have a few things to figure out as well like creating more routes: account, cart, admin functions, etc.
 
 ---
+
+## Day 86: June 26, 2020.
+
+### **Today's Progress**
+
+- Relearning Redux
+
+### **Thoughts**
+
+- I believe that I should have a good grip of Redux, preparing for bigger projects. So that's what I did most of today, yet, I haven't really made anything to work. I'll be back at this tomorrow.
+
+---
