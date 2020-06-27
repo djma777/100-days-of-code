@@ -1723,3 +1723,15 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
 - I believe that I should have a good grip of Redux, preparing for bigger projects. So that's what I did most of today, yet, I haven't really made anything to work. I'll be back at this tomorrow.
 
 ---
+
+## Day 87: June 27, 2020.
+
+### **Today's Progress**
+
+- Still Relearning Redux
+
+### **Thoughts**
+
+- ok, so i got one state to work, but there's much to learn including data fetching and middleware stuff... my mind has gotten a bit foggy after all the reading... back at this tomorrow.
+
+---
