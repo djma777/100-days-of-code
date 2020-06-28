@@ -1735,3 +1735,15 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
 - ok, so i got one state to work, but there's much to learn including data fetching and middleware stuff... my mind has gotten a bit foggy after all the reading... back at this tomorrow.
 
 ---
+
+## Day 88. June 28, 2020.
+
+### **Today's Progress**
+
+- Still Relearning Redux
+
+### **Thoughts**
+
+- couldn't wrap my brain around redux middleware, yet. trying to learn redux-thunk. I get how middlewares work, because I'm doing it in my expressjs app, but I still couldn't get it quite yet in this client side.
+
+---
