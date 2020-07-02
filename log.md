@@ -1747,3 +1747,19 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
 - couldn't wrap my brain around redux middleware, yet. trying to learn redux-thunk. I get how middlewares work, because I'm doing it in my expressjs app, but I still couldn't get it quite yet in this client side.
 
 ---
+
+## Day 89. July 2, 2020.
+
+### **Today's Progress**
+
+- React course on Udemy
+- First Dev interview
+- React Native
+
+### **Thoughts**
+
+- So I dunno which days I started the course so I'll just include it in this one day. It's a nice course where I'll get to build a lot of small projects.
+- Today I had an interview, was very nerve wracking but I'm very fortunate that I was interviewed by a really nice guy. He gave me a chance to learn React Native and approach him when I'm ready to take their coding test. Even considers to put me in a management position.
+- So I looked into RN docs and libraries I could possibly use, I definitely cannot run Android Studio on my current laptop. I have to use expo for now which says gives basic api. Looking forward to all the progress coming this month.
+
+---
