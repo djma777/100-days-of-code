@@ -1776,3 +1776,15 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
 - I'm still hurting from a recent breakup, probly why I keep forgetting to log. sigh. Life goes on. It just sucks right now.
 
 ---
+
+## Day 91. July 7, 2020.
+
+### **Today's Progress**
+
+- React course on Udemy
+
+### **Thoughts**
+
+- Not much today just following the course through... it's good practice, and I'm learning a little bit of here's and there's. Looking forward to the last project which is a lot bigger than these exercises.
+
+---
