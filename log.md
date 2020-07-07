@@ -1763,3 +1763,16 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
 - So I looked into RN docs and libraries I could possibly use, I definitely cannot run Android Studio on my current laptop. I have to use expo for now which says gives basic api. Looking forward to all the progress coming this month.
 
 ---
+
+## Day 90. July 6, 2020.
+
+### **Today's Progress**
+
+- React course on Udemy
+
+### **Thoughts**
+
+- I again forgot to log my progress although there isn't really much to log. I'm still going through Colt Steele's react course. It's very good.
+- I'm still hurting from a recent breakup, probly why I keep forgetting to log. sigh. Life goes on. It just sucks right now.
+
+---
