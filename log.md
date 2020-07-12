@@ -1788,3 +1788,28 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
 - Not much today just following the course through... it's good practice, and I'm learning a little bit of here's and there's. Looking forward to the last project which is a lot bigger than these exercises.
 
 ---
+
+## Day 92. July 11, 2020.
+
+### **Today's Progress**
+
+- React course on Udemy
+
+### **Thoughts**
+
+- I'm having fun with the course currently. Really love the reinforcement of the knowledge and skills.
+
+---
+
+## Day 93. July 12, 2020.
+
+### **Today's Progress**
+
+- React course on Udemy
+
+### **Thoughts**
+
+- A bit of a hold up, but it's fine. My nephew apparently 'lied' about his assignments from school, so I (with other cousins) had to help him finish what's possible. To be honest, I think the right thing to do would have been to let him fail and reap the consequences, but I guess on the bright side, he would not feel let down by his family. Hopefully though, his parents think of some kind of consequence for him, because this is really bad for his future learning.
+- Anyway, that's the hold up, couldn't code straight for 1 week? So I dunno how many days I actually coded intermittently, but yeah.. Everytime I do Colt Steele's course, I'm really liking the way he teaches. I wish all the projects were from scratch but some he gave started codes. It's fine though. It's still good practice, and I'm putting them in my githup repos anyway.
+
+---
