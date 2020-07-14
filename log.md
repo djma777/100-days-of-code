@@ -1825,3 +1825,17 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
 - So this project, Dad Jokes, which consumes the dadjokes api, is really fun. Wel, I just started it but it has features that will really enhance or enforce the skills I already have. I love it.
 
 ---
+
+## Day 95. July 14, 2020.
+
+### **Today's Progress**
+
+- React course on Udemy
+
+### **Thoughts**
+
+- Very pleased with the output today, was able to spend a long time coding.
+
+[Dad Jokes App](https://djma.github.io/dad-jokes/)
+
+---
