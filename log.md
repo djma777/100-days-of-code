@@ -1813,3 +1813,15 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
 - Anyway, that's the hold up, couldn't code straight for 1 week? So I dunno how many days I actually coded intermittently, but yeah.. Everytime I do Colt Steele's course, I'm really liking the way he teaches. I wish all the projects were from scratch but some he gave started codes. It's fine though. It's still good practice, and I'm putting them in my githup repos anyway.
 
 ---
+
+## Day 94. July 13, 2020.
+
+### **Today's Progress**
+
+- React course on Udemy
+
+### **Thoughts**
+
+- So this project, Dad Jokes, which consumes the dadjokes api, is really fun. Wel, I just started it but it has features that will really enhance or enforce the skills I already have. I love it.
+
+---
