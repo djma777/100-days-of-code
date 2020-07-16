@@ -1839,3 +1839,16 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
 [Dad Jokes App](https://djma.github.io/dad-jokes/)
 
 ---
+
+## Day 96. July 16, 2020.
+
+### **Today's Progress**
+
+- React course on Udemy
+
+### **Thoughts**
+
+- Hmm, I really love coding. And I really would love to speed up my work. My biggest challenge right now is the laptop that I'm using. It is ancient. I love coding, so I'll keep going 'til I cant anymore.'
+- Made some progress with the dog picker exercise from the course, just before the big one. But the pc is really getting sluggish and lags a lot. Not that it hasn't been happening the whole day anyway. But I guess I'll call it a night and continue/finish this tomorrow. Much Love!!!
+
+---
