@@ -1852,3 +1852,19 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
 - Made some progress with the dog picker exercise from the course, just before the big one. But the pc is really getting sluggish and lags a lot. Not that it hasn't been happening the whole day anyway. But I guess I'll call it a night and continue/finish this tomorrow. Much Love!!!
 
 ---
+
+## Day 97. July 18, 2020.
+
+### **Today's Progress**
+
+- React course on Udemy
+- YDKJS
+- CS50T
+
+### **Thoughts**
+
+- I've started reading the 1st edition of YDKJS. I initially was waiting for the rest of the 2nd edition to finish, but I guess it's going to take longer. So I'm now going to finish this 1st edition instead.
+- Started this massive Colt Steele React project and I'm loving it!!!
+- Also I'm looking to finish all the free cs50 courses with certificates, or those that relates to web dev / software engineering at least. I did 3 lessons today. But I actually haven't done the assignment for Multimedia. I'll do it tomorrow. Calling it a day.
+
+---
