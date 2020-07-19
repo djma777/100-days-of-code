@@ -1868,3 +1868,19 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
 - Also I'm looking to finish all the free cs50 courses with certificates, or those that relates to web dev / software engineering at least. I did 3 lessons today. But I actually haven't done the assignment for Multimedia. I'll do it tomorrow. Calling it a day.
 
 ---
+
+## Day 98. July 19, 2020.
+
+### **Today's Progress**
+
+- React course on Udemy
+- YDKJS
+- CS50T
+
+### **Thoughts**
+
+- Done with What is Lexical Scope? YDKJS. Not much that I didn't know about, except for how `eval()` and `with()` works. I think essentialy these functions should be avoided as they affects performance essentially negating the build in optimization that the JS Engine does. Just to summarize it, hopefully correctly, these 2 functions create their own scope during runtime.
+- Submitted my assignments for the Multimedia and Security section of CS50T. I still have no idea as to how long do I get a response. Anyway I like it.
+- ...Now resuming my work on Udemy React course, will edit this later.
+
+---
