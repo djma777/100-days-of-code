@@ -1884,3 +1884,15 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
 - ...Now resuming my work on Udemy React course, will edit this later.
 
 ---
+
+## Day 99. July 20, 2020.
+
+### **Today's Progress**
+
+- CS50T
+
+### **Thoughts**
+
+- The power was down for a few hours today. But I was able to finish the web development section of cs50t and also submitted my assignment.
+
+---
