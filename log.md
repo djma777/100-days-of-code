@@ -1896,3 +1896,21 @@ Will continue all of these tomorrow including my _Just JavaScript_ reading.
 - The power was down for a few hours today. But I was able to finish the web development section of cs50t and also submitted my assignment.
 
 ---
+
+## Day 100. July 22, 2020.
+
+### **Today's Progress**
+
+- cs50t
+- udemy react
+- codewars
+- ydkjs
+
+### **Thoughts**
+
+- Finished YDKJS Scope & Clousures Chapter 3: Function and Block Scope. There isn't really much that I don't know already, but I believe there are still some nuances that I have yet to fully comprehend.
+- Did a number to roman numeral problem. My code was too long to be proud of after seeing the top 1 solution. So much to learn.
+- submitted my final assignment in cs50t, I get really bored with scratch but I need to do it for the cert, I hope that I can pass the same assignment for cs50x.
+- This is my 100th day of 100-days-of-code.
+
+---
