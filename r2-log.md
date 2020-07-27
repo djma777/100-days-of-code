@@ -35,3 +35,17 @@
 - Good meet with the team, almost about to start coding (the team), after finishing db design and some wireframing (also the team).
 
 ---
+
+## Day 5. July 27, 2020.
+
+### **Today's Progress**
+
+- portfolio site
+- 1st day new job
+
+### **Thoughts**
+
+- So I will have to correct this tomorrow but I removed my App state that used to Redirect visitors to my `/welcome` page becuase it was not jibing with the static page solution I found on stackoverflow. I'll have to find a different ('better') way to redirect visitors.
+- First day on my job as an Operations Manager (part-time) for a tech company. I wouldn't be coding but I will see the entire work flow of many projects, will be able to talk to clients, project managers, developers, and the BIG BOSS. Not to mention I will see real project codes.
+
+---
