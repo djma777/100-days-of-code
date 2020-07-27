@@ -22,7 +22,7 @@
 
 ---
 
-## Day 4. July 24 - 25, 2020.
+## Day 4. July 26, 2020.
 
 ### **Today's Progress**
 
