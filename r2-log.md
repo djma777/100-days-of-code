@@ -49,3 +49,19 @@
 - First day on my job as an Operations Manager (part-time) for a tech company. I wouldn't be coding but I will see the entire work flow of many projects, will be able to talk to clients, project managers, developers, and the BIG BOSS. Not to mention I will see real project codes.
 
 ---
+
+## Day 6. July 28, 2020.
+
+### **Today's Progress**
+
+- YDKJS
+- Codewars
+- ..Portfolio
+
+### **Thoughts**
+
+- Read about Hoisting. I believe I understand how it works. I think I already did. I'm still confused about the difference between "declarations", "statements", "expression", and maybe more termnilogies. Like, I can imagine how they're different, but it's not exactly set in stone yet in my mind model. Need more learning!!!
+- Finished one challenge that seemed pretty easy, and the top 1 solution wasn't very far from my own. I'm pretty happy with the result.
+- ...to be continued, will work on the portfolio next.
+
+---
