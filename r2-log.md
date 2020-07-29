@@ -56,12 +56,12 @@
 
 - YDKJS
 - Codewars
-- ..Portfolio
+- Portfolio
 
 ### **Thoughts**
 
 - Read about Hoisting. I believe I understand how it works. I think I already did. I'm still confused about the difference between "declarations", "statements", "expression", and maybe more termnilogies. Like, I can imagine how they're different, but it's not exactly set in stone yet in my mind model. Need more learning!!!
 - Finished one challenge that seemed pretty easy, and the top 1 solution wasn't very far from my own. I'm pretty happy with the result.
-- ...to be continued, will work on the portfolio next.
+- Random image api from unsplash is not yet working how I want it to. I'm not able to, make another call to the same url for some reason, the image is not changing. I'll probly need to trigger an effect when the button is pushed.
 
 ---
