@@ -65,3 +65,21 @@
 - Random image api from unsplash is not yet working how I want it to. I'm not able to, make another call to the same url for some reason, the image is not changing. I'll probly need to trigger an effect when the button is pushed.
 
 ---
+
+## Day 7. July 31, 2020.
+
+### **Today's Progress**
+
+- YDKJS
+- Codewars
+- ...Portfolio
+- ...Open Source Proj
+
+### **Thoughts**
+
+- apparently I missed two days already. i'm still getting on boarded at my new work, so there are still a lot of things I need to wrap my things around to be good at my job.
+- Read about closures (again). Although I can understand the gist of it, I'm not yet confident enough to say that I already know it. I'm reading it again tomorrow.
+- Solved a problem on Codewars, not very happy with my solution it was 10+ lines longer than the top solution, but it works. Still learning.
+- ...to be continued...
+
+---
