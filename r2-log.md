@@ -81,3 +81,15 @@
 - Wasnt able to continue with anything else yesterday.
 
 ---
+
+## Day 8. August 1, 2020.
+
+### **Today's Progress**
+
+- Codewars
+
+### **Thoughts**
+
+- Solved a Kata, but my solution is yet close to what I would like it to be. So much to learn.
+
+---
