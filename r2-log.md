@@ -87,9 +87,12 @@
 ### **Today's Progress**
 
 - Codewars
+- YDKJS: Scope & Closures
 
 ### **Thoughts**
 
 - Solved a Kata, but my solution is yet close to what I would like it to be. So much to learn.
+- I think it's a little bit clearer now, althought there's that example code with `module manager` that I still couldn't quite grasp how the code works. But I'll have to return to that tomorrow, and perhaps just that for this same chapter.
+  - I may also need to learn how to configure my nodejs projects to use es6 modules using babel or something.
 
 ---
