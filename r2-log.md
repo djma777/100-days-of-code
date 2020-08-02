@@ -102,9 +102,12 @@
 ### **Today's Progress**
 
 - Codewars
+- Portfolio Project
 
 ### **Thoughts**
 
 - Solved a Kata. But just like yesterday... the top solutions were way way way way way way shorter than mine. Still so much to learn in programming and JavaScript!!!! I love it!
+- I will not be using the RandomImage component because at the moment I could not figure out how to rerender the img element with the same api (random)url but change the image. It works fine without it. The page is currently just for entertainment anyway while I'm building the more important contents of my portfolio.
+- I think I found the solution to the images, but there's the part where the height might be too large, and if I change my css to accomodate the height then it might break the width. This may need more testing, and reading on my part.
 
 ---
