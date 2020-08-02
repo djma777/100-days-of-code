@@ -96,3 +96,15 @@
   - I may also need to learn how to configure my nodejs projects to use es6 modules using babel or something.
 
 ---
+
+## Day 9. August 2, 2020.
+
+### **Today's Progress**
+
+- Codewars
+
+### **Thoughts**
+
+- Solved a Kata. But just like yesterday... the top solutions were way way way way way way shorter than mine. Still so much to learn in programming and JavaScript!!!! I love it!
+
+---
