@@ -117,9 +117,11 @@
 ### **Today's Progress**
 
 - Codewars
+- YDKJS > Appendix A: Dynamic Scope
 
 ### **Thoughts**
 
 - Solved a Kata today. My solution wasn't bad, I actually kind of like my solution better than the top 1. The top solution was very concise but I wasn't sure about the intent of each expression chained together. But it was really using implicit coercion that I would have otherwise not thought possible. Learned that. I'm still very excited about learning (achieving a higher mastery of the language). More!!!
+- So this is a new concept I never knew about. Pretty cool though, but more details about it is in another book. We'll get there eventually.
 
 ---
