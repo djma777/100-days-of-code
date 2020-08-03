@@ -111,3 +111,15 @@
 - I think I found the solution to the images, but there's the part where the height might be too large, and if I change my css to accomodate the height then it might break the width. This may need more testing, and reading on my part.
 
 ---
+
+## Day 10. August 3, 2020.
+
+### **Today's Progress**
+
+- Codewars
+
+### **Thoughts**
+
+- Solved a Kata today. My solution wasn't bad, I actually kind of like my solution better than the top 1. The top solution was very concise but I wasn't sure about the intent of each expression chained together. But it was really using implicit coercion that I would have otherwise not thought possible. Learned that. I'm still very excited about learning (achieving a higher mastery of the language). More!!!
+
+---
