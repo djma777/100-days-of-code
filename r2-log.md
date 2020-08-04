@@ -131,9 +131,11 @@
 ### **Today's Progress**
 
 - Installing Python
+- freeCodeCamp Python
 
 ### **Thoughts**
 
 - Finally got the outcome I wanted, for `python -V` and `py -V` to show the latest version I installed which is `3.8.5` instead of `2.7.17` which was showing yesterday and early today. Hopefully that doesn't break anything on my end.
+- Doing at least 1 or 2 lessons in Python at the freeCodeCamp site per day.
 
 ---
