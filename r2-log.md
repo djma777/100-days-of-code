@@ -125,3 +125,15 @@
 - So this is a new concept I never knew about. Pretty cool though, but more details about it is in another book. We'll get there eventually.
 
 ---
+
+## Day 11. August 4, 2020.
+
+### **Today's Progress**
+
+- Installing Python
+
+### **Thoughts**
+
+- Finally got the outcome I wanted, for `python -V` and `py -V` to show the latest version I installed which is `3.8.5` instead of `2.7.17` which was showing yesterday and early today. Hopefully that doesn't break anything on my end.
+
+---
