@@ -139,3 +139,15 @@
 - Doing at least 1 or 2 lessons in Python at the freeCodeCamp site per day.
 
 ---
+
+## Day 12. August 5, 2020.
+
+### **Today's Progress**
+
+- Codewars
+
+### **Thoughts**
+
+- Solved a time Kata today. It was not difficult but, the way the top solution works is a little bit difficult for my mind to understand. I mean, `%` confuses me a bit when it was used. I don't quite understand (yet) how the result in the modulus operation results to minutes or seconds, but I kind of do understand - just not fully.
+
+---
