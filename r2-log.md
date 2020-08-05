@@ -146,10 +146,12 @@
 
 - Codewars
 - YDKJS > Appendix B: Polyfilling Block Scope
+- freeCodeCamp Python
 
 ### **Thoughts**
 
 - Solved a time Kata today. It was not difficult but, the way the top solution works is a little bit difficult for my mind to understand. I mean, `%` confuses me a bit when it was used. I don't quite understand (yet) how the result in the modulus operation results to minutes or seconds, but I kind of do understand - just not fully.
 - So just a short topic, seeing as it is an Appendix Chapter, i'm not sure what tha difference is between `Traceur` and `Babel`. And by looking up they are competitors of each other, apparently.
+- Slowly getting into Python... Just some basics. Lesson today is just about variables and expression. Very basic stuff. So... `constants` in Python is same as `primitives` in JavaScript? I guess so. 
 
 ---
