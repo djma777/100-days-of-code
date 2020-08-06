@@ -152,6 +152,18 @@
 
 - Solved a time Kata today. It was not difficult but, the way the top solution works is a little bit difficult for my mind to understand. I mean, `%` confuses me a bit when it was used. I don't quite understand (yet) how the result in the modulus operation results to minutes or seconds, but I kind of do understand - just not fully.
 - So just a short topic, seeing as it is an Appendix Chapter, i'm not sure what tha difference is between `Traceur` and `Babel`. And by looking up they are competitors of each other, apparently.
-- Slowly getting into Python... Just some basics. Lesson today is just about variables and expression. Very basic stuff. So... `constants` in Python is same as `primitives` in JavaScript? I guess so. 
+- Slowly getting into Python... Just some basics. Lesson today is just about variables and expression. Very basic stuff. So... `constants` in Python is same as `primitives` in JavaScript? I guess so.
+
+---
+
+## Day 13. August 6, 2020.
+
+### **Today's Progress**
+
+- Codewars
+
+### **Thoughts**
+
+- couldn't quite solve this anagram kata today. spend almost 4 hours already going round and round the `for each` and `for of` loops that I've tried but mind hasn't quite gotten it yet. I'm still mind boggled or whatever. haha. it's fun. I'm just a little pressed for time and I need to do other stuff. I will continue to try to solve this tomorrow. It actually already ate up my supposed time for reading and freeCodeCamp Python lessons. But it's all good.
 
 ---
