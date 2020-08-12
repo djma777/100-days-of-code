@@ -173,11 +173,13 @@
 ### **Today's Progress**
 
 - Codewars
+- YDKJS > Scope & Closures: Appendix C and D
 
 ### **Thoughts**
 
 - I actually did some coding the past few days but I just wasn't able to log my progress. It's fine though, I'm happy to internalize the progress and skip logging them. But as much as possible I want to be responsible enough to keep this log going, even though i'm not really updating on social media most of the time.
 - So in codewars, apparently, when I logged in today, I no longer have the same Kata that I was trying to solve before. But to my advantage, I guess, I got a new one and was able to solve it. Maybe I just got better? or maybe not? Hehe. What's more important is that I'm really happy that my skills are improving. And there's still so much to learn.
+- Ok, cool, so `this`, yeah, gotcha! No, not really, not yet. So arrow functions behave differently in that they automatically have lexical-this so that coders do not need to bind. And arrow functions are anonymous. Pretty sure will learn more about this in later books in the series. Cool!
 
 ### **Links**
 
