@@ -167,3 +167,20 @@
 - couldn't quite solve this anagram kata today. spend almost 4 hours already going round and round the `for each` and `for of` loops that I've tried but mind hasn't quite gotten it yet. I'm still mind boggled or whatever. haha. it's fun. I'm just a little pressed for time and I need to do other stuff. I will continue to try to solve this tomorrow. It actually already ate up my supposed time for reading and freeCodeCamp Python lessons. But it's all good.
 
 ---
+
+## Day 14. August 12, 2020.
+
+### **Today's Progress**
+
+- Codewars
+
+### **Thoughts**
+
+- I actually did some coding the past few days but I just wasn't able to log my progress. It's fine though, I'm happy to internalize the progress and skip logging them. But as much as possible I want to be responsible enough to keep this log going, even though i'm not really updating on social media most of the time.
+- So in codewars, apparently, when I logged in today, I no longer have the same Kata that I was trying to solve before. But to my advantage, I guess, I got a new one and was able to solve it. Maybe I just got better? or maybe not? Hehe. What's more important is that I'm really happy that my skills are improving. And there's still so much to learn.
+
+### **Links**
+
+[Codewars Profile](https://www.codewars.com/users/djma777)
+
+---
