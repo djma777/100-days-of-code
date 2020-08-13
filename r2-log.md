@@ -192,10 +192,12 @@
 ### **Today's Progress**
 
 - Codewars
+- YDKJS > this & Object Prototypes > Ch1: _this_ Or That?
 
 ### **Thoughts**
 
 - Failing to solve a kata today. I'll have to bail on this and continue trying tomorrow, because it's almost time for work and I haven't done any of my other daily tasks.
+- So basically just started on this book, and the current chapter just explains what `this` is not. Well, of course, it's my first time reading the book so I haven't fully grasped the content yet, but I get some bits of it. Looking forward to the rest of the book and this book series.
 
 ### **Links**
 
