@@ -186,3 +186,19 @@
 [Codewars Profile](https://www.codewars.com/users/djma777)
 
 ---
+
+## Day 15. August 13, 2020.
+
+### **Today's Progress**
+
+- Codewars
+
+### **Thoughts**
+
+- Failing to solve a kata today. I'll have to bail on this and continue trying tomorrow, because it's almost time for work and I haven't done any of my other daily tasks.
+
+### **Links**
+
+[Codewars Profile](https://www.codewars.com/users/djma777)
+
+---
