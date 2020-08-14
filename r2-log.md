@@ -204,3 +204,19 @@
 [Codewars Profile](https://www.codewars.com/users/djma777)
 
 ---
+
+## Day 16. August 14, 2020.
+
+### **Today's Progress**
+
+- freeCodeCamp: Python
+
+### **Thoughts**
+
+- Just taking 1 or 2 lessons a day. Nothing much. Just `if elif else` pretty much.
+
+### **Links**
+
+[Codewars Profile](https://www.codewars.com/users/djma777)
+
+---
