@@ -220,3 +220,17 @@
 [Codewars Profile](https://www.codewars.com/users/djma777)
 
 ---
+
+## Day 17. August 17, 2020.
+
+### **Today's Progress**
+
+- Codewars
+
+### **Thoughts**
+
+- Ok, I'm giving up on 5 kyu and higher for now. I want to solve easier, beginner friendly problems for now, until such time that I feel confident that I'm better than the 6 kyu below katas.
+
+### **Links**
+
+[Codewars Profile](https://www.codewars.com/users/djma777)
