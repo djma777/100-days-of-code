@@ -226,10 +226,12 @@
 ### **Today's Progress**
 
 - Codewars
+- YDKJS: Ch2: `this` & Object Prototypes > `this` All Makes Sense Now!
 
 ### **Thoughts**
 
 - Ok, I'm giving up on 5 kyu and higher for now. I want to solve easier, beginner friendly problems for now, until such time that I feel confident that I'm better than the 6 kyu below katas.
+- It actually doesn't. Haha! But it will, I actually speed read through this chapter, with the intention of reading it again tomorrow, because I'm a little bit pressed with time. I'm definitely going to understand this and all these books in this series.
 
 ### **Links**
 
