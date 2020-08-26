@@ -236,3 +236,22 @@
 ### **Links**
 
 [Codewars Profile](https://www.codewars.com/users/djma777)
+
+---
+
+## Day 18. August 26, 2020.
+
+### **Today's Progress**
+
+- Codewars
+
+### **Thoughts**
+
+- So I skipped almost a week huh!? Been really busy preparing for the arrival of my new puppy next month. Bought a few stuff, and have been reading about pet training. I'm really excited about it.
+- Today I solved a Kyu6 Kata. And learned about `trim()` after solving the kata without it. Lols!
+
+### **Links**
+
+[Codewars Profile](https://www.codewars.com/users/djma777)
+
+---
