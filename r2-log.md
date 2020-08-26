@@ -244,11 +244,13 @@
 ### **Today's Progress**
 
 - Codewars
+- YDKJS: this & Object Prototyps > Ch3: Objects
 
 ### **Thoughts**
 
 - So I skipped almost a week huh!? Been really busy preparing for the arrival of my new puppy next month. Bought a few stuff, and have been reading about pet training. I'm really excited about it.
 - Today I solved a Kyu6 Kata. And learned about `trim()` after solving the kata without it. Lols!
+- I'm learning but I don't have enough concentration to push through the whole Chapter, because I'm running a little late on my other commitment. I'm definitely going back and reread this chapter until I finish it at the right pace.
 
 ### **Links**
 
