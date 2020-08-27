@@ -263,15 +263,17 @@
 ### **Today's Progress**
 
 - Codewars
-- YDKJS: this & Object Prototyps > Ch3: Objects
+- Personal Website
 
 ### **Thoughts**
 
 - Hmm... Solved a Kata but wasn't quite close to the top solution. Top solution used filter. I know filter but I missed the fact that you can do some algo inside besides the rule you want to return. Interesting.
 - I also might alternate between Codewars and HackerRank, I was told the site is pretty good too. I'll start on it tomorrow.
+- Couldn't quite progress on my personal website. I still need the design. And I'm not so sure yet how it's going to be. There are things that pop in mind whenever I think but I cannot fully engage myself in it. Partly because I have a very incompetent PC. I couldn't use design tools and research simultaneously. I will figure this out for sure. But it's going to take some more time.
 
 ### **Links**
 
 [Codewars Profile](https://www.codewars.com/users/djma777)
+[DJ Asuncion](https://www.djasuncion.com/)
 
 ---
