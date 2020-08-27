@@ -257,3 +257,21 @@
 [Codewars Profile](https://www.codewars.com/users/djma777)
 
 ---
+
+## Day 19. August 27, 2020.
+
+### **Today's Progress**
+
+- Codewars
+- YDKJS: this & Object Prototyps > Ch3: Objects
+
+### **Thoughts**
+
+- Hmm... Solved a Kata but wasn't quite close to the top solution. Top solution used filter. I know filter but I missed the fact that you can do some algo inside besides the rule you want to return. Interesting.
+- I also might alternate between Codewars and HackerRank, I was told the site is pretty good too. I'll start on it tomorrow.
+
+### **Links**
+
+[Codewars Profile](https://www.codewars.com/users/djma777)
+
+---
