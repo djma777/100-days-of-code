@@ -274,6 +274,29 @@
 ### **Links**
 
 [Codewars Profile](https://www.codewars.com/users/djma777)
+
+[DJ Asuncion](https://www.djasuncion.com/)
+
+---
+
+## Day 20. August 28, 2020.
+
+### **Today's Progress**
+
+- HackerRank
+
+### **Thoughts**
+
+- So I guess I'm not doing a lot of coding or studying today. It's my sister's birthday and I had to go with my dad to buy some food for a small lunch celebration.
+- Did a couple of the 10 days of Practice on HackerRank. Not a bad experience so far. I think alternating it with Codewars would work just fine.
+- I'm still getting a bit anxious about the pace of my work on my personal and business websites. We'll get there.
+
+### **Links**
+
+[Codewars Profile](https://www.codewars.com/users/djma777)
+
+[HackerRank Profile](https://www.hackerrank.com/djma777)
+
 [DJ Asuncion](https://www.djasuncion.com/)
 
 ---
