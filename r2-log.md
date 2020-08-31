@@ -300,3 +300,25 @@
 [DJ Asuncion](https://www.djasuncion.com/)
 
 ---
+
+## Day 21. August 31, 2020.
+
+### **Today's Progress**
+
+- YDKJS: this & Object Prototypes > Ch3: Objects
+
+### **Thoughts**
+
+- I think I got a better run at this chapter now. But I honestly have parts I don't fully understand yet. I don't expect myself to fully comperehend everything at once. I'm going through all these learning slowly, at my own pace; and become a master in the right time.
+
+### **Links**
+
+[Codewars Profile](https://www.codewars.com/users/djma777)
+
+[HackerRank Profile](https://www.hackerrank.com/djma777)
+
+[DJ Asuncion](https://www.djasuncion.com/)
+
+[You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
+
+---
