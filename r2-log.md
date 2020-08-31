@@ -306,10 +306,12 @@
 ### **Today's Progress**
 
 - YDKJS: this & Object Prototypes > Ch3: Objects
+- Personal Site
 
 ### **Thoughts**
 
 - I think I got a better run at this chapter now. But I honestly have parts I don't fully understand yet. I don't expect myself to fully comperehend everything at once. I'm going through all these learning slowly, at my own pace; and become a master in the right time.
+- Took too long to fix the flickering issue. So using `StylesProvider` with prop `injectFirst` fixes the initial, and worst, flickering on reload or first load. Now I still have the problem with the font. Preloading might fix it, but at the moment it's not too big for me to focus on it. I'll move on and hopefully get more going on the site. There's so much to do yet after this.
 
 ### **Links**
 
