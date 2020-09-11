@@ -324,3 +324,29 @@
 [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
 
 ---
+
+## Day 22 - 23. September 10 - 11, 2020.
+
+### **Today's Progress**
+
+- Personal Site
+
+### **Thoughts**
+
+- So first of all, the reason I have not progressed in the past week or so is because I recently got a Golden Retriever dog. She's quite a handful and still is. There's real good reason that I got her and is paying off quite a good lot. However, my coding journey is being affected. I don't regret it one bit, but I'll be doing my best to get back on track. There's also a good side of it with regards to my programming practice because I don't have a good enough computer yet that will handle my programming needs efficiently. It will all workout in due time. God is with me!
+- So, I'm making small bits of progress on my personal site.
+  - Yesterday, I started trying to integrate prismic.io and read the docs.
+  - Today, I'm able to query documents and looks like I'd be able to understand the rest of it.
+  - I still need to read a lot on Next.js and Prismic.io.
+
+### **Links**
+
+[Codewars Profile](https://www.codewars.com/users/djma777)
+
+[HackerRank Profile](https://www.hackerrank.com/djma777)
+
+[DJ Asuncion](https://www.djasuncion.com/)
+
+[You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
+
+---
