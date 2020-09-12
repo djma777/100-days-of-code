@@ -350,3 +350,28 @@
 [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
 
 ---
+
+## Day 24. September 12, 2020.
+
+### **Today's Progress**
+
+- Personal Site
+
+### **Thoughts**
+
+- I did a few modifications:
+  - added a few page links to the appbar: Home, About, Blog, Contact
+  - only home and blog are working, the other two are empty links which will result to a 404 if clicked.
+- Still reading up on Next and Prismic.io docs.
+
+### **Links**
+
+[Codewars Profile](https://www.codewars.com/users/djma777)
+
+[HackerRank Profile](https://www.hackerrank.com/djma777)
+
+[DJ Asuncion](https://www.djasuncion.com/)
+
+[You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
+
+---
