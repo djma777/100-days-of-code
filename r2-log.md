@@ -375,3 +375,29 @@
 [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
 
 ---
+
+## Day 25 - 26. September 17 - 18, 2020.
+
+### **Today's Progress**
+
+- Patient Medical Records Backend
+
+### **Thoughts**
+
+- created mongodb account
+- created heroku account
+- changed file system from php/laravel to nodejs/expressjs
+- wrote initial code to run server
+- I actually worked on this for about 2 days on and off because of work and other stuff.
+
+### **Links**
+
+[Codewars Profile](https://www.codewars.com/users/djma777)
+
+[HackerRank Profile](https://www.hackerrank.com/djma777)
+
+[DJ Asuncion](https://www.djasuncion.com/)
+
+[You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
+
+---
