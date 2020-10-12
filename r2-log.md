@@ -423,3 +423,27 @@
 [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
 
 ---
+
+## Day 29. October 12, 2020.
+
+### **Today's Progress**
+
+- New PC setup
+- Patient Medical Records Backend
+
+### **Thoughts**
+
+- I'm very excited with my new PC. With this I can develop any software I want. Spent the weekend installing and playing/testing games and installing setting up some dev stuff. But mostly for dev stuff today.
+- Also just setting up the project (PMR) on my new machine. And I really need to get a solid understanding of architecture and file structure. There's a lot to learn. I'm trying to Google the best resource to guide me how to build the API.
+
+### **Links**
+
+[Codewars Profile](https://www.codewars.com/users/djma777)
+
+[HackerRank Profile](https://www.hackerrank.com/djma777)
+
+[DJ Asuncion](https://www.djasuncion.com/)
+
+[You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
+
+---
