@@ -447,3 +447,27 @@
 [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
 
 ---
+
+## Day 30. October 13, 2020.
+
+### **Today's Progress**
+
+- New PC setup
+- Patient Medical Records Backend
+
+### **Thoughts**
+
+- Still currently in the process of setting up my pc for development. I'm about 99% done, just leaving that 1% for the things that I still don't know about.
+- Currently also studying stuff in the lines of Software Architecture and SoftwareDesign.
+
+### **Links**
+
+[Codewars Profile](https://www.codewars.com/users/djma777)
+
+[HackerRank Profile](https://www.hackerrank.com/djma777)
+
+[DJ Asuncion](https://www.djasuncion.com/)
+
+[You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
+
+---
