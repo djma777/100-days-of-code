@@ -471,3 +471,29 @@
 [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
 
 ---
+
+## Day 31. October 14, 2020.
+
+### **Today's Progress**
+
+- Hacker Rank
+- New PC setup
+- Patient Medical Records Backend
+
+### **Thoughts**
+
+- Solved 2 hacker rank problems. Second one took me a while to figure out. It was just about using switch statements. LOL. Happy it worked in the end.
+- Installed a few VS Code extensions and configured Prettier to work. For some reason I don't know, the settings won't work, I had to add a snippet in the config file.
+- Created a spike ticket for the PMR project architecture and proposed to rethink the scope or the whole project. I think we need to create a Hospital Management System instead.
+
+### **Links**
+
+[Codewars Profile](https://www.codewars.com/users/djma777)
+
+[HackerRank Profile](https://www.hackerrank.com/djma777)
+
+[DJ Asuncion](https://www.djasuncion.com/)
+
+[You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
+
+---
