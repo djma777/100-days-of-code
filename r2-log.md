@@ -479,12 +479,14 @@
 - Hacker Rank
 - New PC setup
 - Patient Medical Records Backend
+- RN Setup/ Android Studio
 
 ### **Thoughts**
 
 - Solved 2 hacker rank problems. Second one took me a while to figure out. It was just about using switch statements. LOL. Happy it worked in the end.
 - Installed a few VS Code extensions and configured Prettier to work. For some reason I don't know, the settings won't work, I had to add a snippet in the config file.
 - Created a spike ticket for the PMR project architecture and proposed to rethink the scope or the whole project. I think we need to create a Hospital Management System instead.
+- I was able to start a test RN project and able to see changes when I edit the code. Yay!
 
 ### **Links**
 
