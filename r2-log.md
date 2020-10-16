@@ -499,3 +499,32 @@
 [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
 
 ---
+
+## Day 31. October 14, 2020.
+
+### **Today's Progress**
+
+- Hacker Rank
+- Patient Medical Records Backend
+- Storybook
+
+### **Thoughts**
+
+- Solved 2 problems in 10 Days of Javascript in hackerrank.com
+- still waiting for team members' feed back for the PMR project
+- playing around storybook making 'ok' progress so far
+- i will restart react project course tomorrow now with a better computer
+- also looking into how to start typescript and nestjs
+- will also eventually look for RN projects/course
+
+### **Links**
+
+[Codewars Profile](https://www.codewars.com/users/djma777)
+
+[HackerRank Profile](https://www.hackerrank.com/djma777)
+
+[DJ Asuncion](https://www.djasuncion.com/)
+
+[You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
+
+---
