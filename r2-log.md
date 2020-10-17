@@ -500,7 +500,7 @@
 
 ---
 
-## Day 31. October 14, 2020.
+## Day 32. October 16, 2020.
 
 ### **Today's Progress**
 
@@ -516,6 +516,28 @@
 - i will restart react project course tomorrow now with a better computer
 - also looking into how to start typescript and nestjs
 - will also eventually look for RN projects/course
+
+### **Links**
+
+[Codewars Profile](https://www.codewars.com/users/djma777)
+
+[HackerRank Profile](https://www.hackerrank.com/djma777)
+
+[DJ Asuncion](https://www.djasuncion.com/)
+
+[You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
+
+---
+
+## Day 33. October 17, 2020.
+
+### **Today's Progress**
+
+- Hacker Rank
+
+### **Thoughts**
+
+- Solved a couple of easy challenges. A little tired today. But happy to be able to make a small bit of progress.
 
 ### **Links**
 
