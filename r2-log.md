@@ -550,3 +550,25 @@
 [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
 
 ---
+
+## Day 33. October 17, 2020.
+
+### **Today's Progress**
+
+- Hacker Rank
+
+### **Thoughts**
+
+- Just solved another 2 problems today, just like yesterday. Happy with the result with some doubts in mind about my understanding of `classes`, `prototypes`, `objects`. Looking forward for more learning.
+
+### **Links**
+
+[Codewars Profile](https://www.codewars.com/users/djma777)
+
+[HackerRank Profile](https://www.hackerrank.com/djma777)
+
+[DJ Asuncion](https://www.djasuncion.com/)
+
+[You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
+
+---
