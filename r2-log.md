@@ -596,3 +596,26 @@
 [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
 
 ---
+
+## Day 36. October 20, 2020.
+
+### **Today's Progress**
+
+- Coursera > Google IT Support > Technical Support Fundamentals
+- Hacker Rank
+
+### **Thoughts**
+
+- Happy to run through the course. Don't know how much a certificate will cost, right now I'm auditing the courses I enrolled myself to with a scholarship I mentioned yesterday.
+
+### **Links**
+
+[Codewars Profile](https://www.codewars.com/users/djma777)
+
+[HackerRank Profile](https://www.hackerrank.com/djma777)
+
+[DJ Asuncion](https://www.djasuncion.com/)
+
+[You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
+
+---
