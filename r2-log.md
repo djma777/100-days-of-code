@@ -602,11 +602,13 @@
 ### **Today's Progress**
 
 - Coursera > Google IT Support > Technical Support Fundamentals
+- Udemy > The Modern React Bootcamp
 - Hacker Rank
 
 ### **Thoughts**
 
 - Happy to run through the course. Don't know how much a certificate will cost, right now I'm auditing the courses I enrolled myself to with a scholarship I mentioned yesterday.
+- Made some progress on my redo of the Color App project. To be honest, after just probably a couple weeks of not coding, I already feel very rusty, and indeed I am. I really need to be consistent and more dedicated to this. And I am.
 
 ### **Links**
 
