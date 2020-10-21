@@ -626,14 +626,14 @@
 
 ### **Today's Progress**
 
-- Coursera > Google IT Support > Technical Support Fundamentals
+- Coursera > Google IT Support > Technical Support Fundamentals > Week 2
 - Udemy > The Modern React Bootcamp
 - Hacker Rank
 
 ### **Thoughts**
 
 - Happy to solve another 2 easy challenges today. A little rusty on JS DOM, but I got it to work with Google's help.
--
+- Finishing up the week 2 of the course.
 
 ### **Links**
 
