@@ -646,3 +646,27 @@
 [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
 
 ---
+
+## Day 38. October 22, 2020.
+
+### **Today's Progress**
+
+- Coursera > Google IT Support > Technical Support Fundamentals > Week 3
+- Udemy > The Modern React Bootcamp
+- Hacker Rank
+
+### **Thoughts**
+
+- Happy to finish Week 3 in one day in the Coursera course.
+
+### **Links**
+
+[Codewars Profile](https://www.codewars.com/users/djma777)
+
+[HackerRank Profile](https://www.hackerrank.com/djma777)
+
+[DJ Asuncion](https://www.djasuncion.com/)
+
+[You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
+
+---
