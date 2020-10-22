@@ -659,7 +659,7 @@
 
 - Happy to finish Week 3 in one day in the Coursera course.
 - Happy to solve 2 more problems in 10 Days of JS in HackerRank. Things are looking up for me. At least to my knowledge! :)
--
+- Happy to make some progress in the Colors App project.
 
 ### **Links**
 
