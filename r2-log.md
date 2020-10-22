@@ -652,12 +652,14 @@
 ### **Today's Progress**
 
 - Coursera > Google IT Support > Technical Support Fundamentals > Week 3
-- Udemy > The Modern React Bootcamp
 - Hacker Rank
+- Udemy > The Modern React Bootcamp
 
 ### **Thoughts**
 
 - Happy to finish Week 3 in one day in the Coursera course.
+- Happy to solve 2 more problems in 10 Days of JS in HackerRank. Things are looking up for me. At least to my knowledge! :)
+-
 
 ### **Links**
 
