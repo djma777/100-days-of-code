@@ -683,7 +683,8 @@
 ### **Thoughts**
 
 - Unhappy to fail the quiz too many times that I need to wait 24 hours to retake. LOL. I got too lazy to take the quiz seriously - as I should have in the first place.
--
+- Happy to solve another 2 problems. But I'm skipping one that I cannot understand and upon checking its comments, many people also have a hard time getting the problems submitted by the author. I think at my level especially with regards to the topic (bitwise), it confuses me even more. Hopefully there's a way to remove that challenge from the series I'm currently on.
+- Small progress on the react project. Definitely rusty. But definitely happy with how fast my set is now.
 
 ### **Links**
 
