@@ -720,3 +720,27 @@
 [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
 
 ---
+
+## Day 41. October 26, 2020.
+
+### **Today's Progress**
+
+- TypeScript
+- Coursera > Google IT Support > Technical Support Fundamentals > Week 3
+- Hacker Rank
+- Udemy > The Modern React Bootcamp
+
+### **Thoughts**
+
+- Yikes! Failed 3 times again in the Coursera quiz. Will try again tomorrow.
+
+### **Links**
+
+[Codewars Profile](https://www.codewars.com/users/djma777)  
+[HackerRank Profile](https://www.hackerrank.com/djma777)  
+[Udemy Project > Colors App: Github Repo](https://github.com/djma777/colors-app)  
+[Udemy Project > Colors App: Netlify App](https://colors-appp.netlify.app/)  
+[DJ Asuncion](https://www.djasuncion.com/)  
+[You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
+
+---
