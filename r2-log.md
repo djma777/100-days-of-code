@@ -1,3 +1,29 @@
+## Day 41. October 26, 2020.
+
+- Today I decide that writing my latest log at the top of this document is the better reader/writer experience.
+
+### **Today's Progress**
+
+- Hacker Rank
+- Coursera > Google IT Support > Technical Support Fundamentals > Week 3
+- TypeScript
+- Udemy > The Modern React Bootcamp
+
+### **Thoughts**
+
+- Happy to have solved 2 challenges for today. :D
+
+### **Links**
+
+[Codewars Profile](https://www.codewars.com/users/djma777)  
+[HackerRank Profile](https://www.hackerrank.com/djma777)  
+[Udemy Project > Colors App: Github Repo](https://github.com/djma777/colors-app)  
+[Udemy Project > Colors App: Netlify App](https://colors-appp.netlify.app/)  
+[DJ Asuncion](https://www.djasuncion.com/)  
+[You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
+
+---
+
 ## Day 1. July 23, 2020.
 
 ### **Today's Progress**
@@ -725,8 +751,8 @@
 
 ### **Today's Progress**
 
-- TypeScript
 - Coursera > Google IT Support > Technical Support Fundamentals > Week 3
+- TypeScript
 - Hacker Rank
 - Udemy > The Modern React Bootcamp
 
