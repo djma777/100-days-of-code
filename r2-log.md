@@ -3,14 +3,14 @@
 ### **Today's Progress**
 
 - Coursera > Google IT Support > Technical Support Fundamentals > Week 5
+- Udemy > The Modern React Bootcamp
 - Hacker Rank
 - TypeScript
-- Udemy > The Modern React Bootcamp
 
 ### **Thoughts**
 
 - Happy to finish Week 5 today.
--
+- Just finished 1 section of the Udemy course.
 
 ### **Links**
 
