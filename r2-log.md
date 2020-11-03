@@ -5,6 +5,7 @@
 - Coursera > Google IT Support > Technical Support Fundamentals
 - Coursera > Software Development Cycle > Lean Software Development
 - Coursera > Software Product Management > Introduction to Software Product Management
+- Coursera > Software Design and Architecture > Object-Oriented Design
 - Udemy > The Modern React Bootcamp
 - Hacker Rank
 - TypeScript
@@ -13,7 +14,9 @@
 
 - Happy to finish the Technical Support Fundamental course today.
   - looking forward, and already enrolled to a bunch of IT, software, related courses in Coursera.
--
+- Started intro to Lean Software Development.
+- Started intro to Software Product Management.
+- Started Software Design and Architecture.
 
 ### **Links**
 
