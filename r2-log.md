@@ -6,6 +6,8 @@
 - Coursera > Software Development Cycle > Lean Software Development
 - Coursera > Software Product Management > Introduction to Software Product Management
 - Coursera > Software Design and Architecture > Object-Oriented Design
+- Coursera > Software Testing and Automation > Welcome
+- Coursera > Java Programming and Software Engineering > Course Overview
 - Udemy > The Modern React Bootcamp
 - Hacker Rank
 - TypeScript
@@ -17,6 +19,9 @@
 - Started intro to Lean Software Development.
 - Started intro to Software Product Management.
 - Started Software Design and Architecture.
+  - looks like i need to learn Java first. I enrolled myself to a Java course too. Learning is fun.
+- The testing course, apparently also needs Java.
+- Java programming course, starts up with HTML, JS, and CSS - apparently.
 
 ### **Links**
 
