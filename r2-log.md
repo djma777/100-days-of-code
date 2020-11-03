@@ -1,3 +1,31 @@
+## Day 44. November 03, 2020.
+
+### **Today's Progress**
+
+- Coursera > Google IT Support > Technical Support Fundamentals
+- Coursera > Software Development Cycle > Lean Software Development
+- Coursera > Software Product Management > Introduction to Software Product Management
+- Udemy > The Modern React Bootcamp
+- Hacker Rank
+- TypeScript
+
+### **Thoughts**
+
+- Happy to finish the Technical Support Fundamental course today.
+  - looking forward, and already enrolled to a bunch of IT, software, related courses in Coursera.
+-
+
+### **Links**
+
+[Codewars Profile](https://www.codewars.com/users/djma777)  
+[HackerRank Profile](https://www.hackerrank.com/djma777)  
+[Udemy Project > Colors App: Github Repo](https://github.com/djma777/colors-app)  
+[Udemy Project > Colors App: Netlify App](https://colors-appp.netlify.app/)  
+[DJ Asuncion](https://www.djasuncion.com/)  
+[You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
+
+---
+
 ## Day 43. October 28, 2020.
 
 ### **Today's Progress**
