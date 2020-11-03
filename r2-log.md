@@ -22,6 +22,7 @@
   - looks like i need to learn Java first. I enrolled myself to a Java course too. Learning is fun.
 - The testing course, apparently also needs Java.
 - Java programming course, starts up with HTML, JS, and CSS - apparently.
+- Just a quick minor update on the colors app, added slider for the colors.
 
 ### **Links**
 
