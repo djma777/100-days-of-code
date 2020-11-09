@@ -1,14 +1,14 @@
-## Day 44. November 03, 2020.
+## Day 45. November 09, 2020.
 
 ### **Today's Progress**
 
+- Coursera > Agile Development > Agile Meets Design Thinking
+- Coursera > Java Programming and Software Engineering > Programming Foundations with JavaScript, HTML, and CSS
 - Coursera > Google IT Support > Technical Support Fundamentals
 - Coursera > Software Development Cycle > Lean Software Development
 - Coursera > Software Product Management > Introduction to Software Product Management
 - Coursera > Software Design and Architecture > Object-Oriented Design
 - Coursera > Software Testing and Automation > Welcome
-- Coursera > Java Programming and Software Engineering > Course Overview
-- Coursera > Agile Development > Agile Meets Design Thinking
 - Udemy > The Modern React Bootcamp
 - Hacker Rank
 - TypeScript
@@ -16,6 +16,7 @@
 ### **Thoughts**
 
 - Finished Week 1 of Agile Meets Design Thinking
+- Finished Week 1 of Programming Foundations with JavaScript, HTML, and CSS
 
 ### **Links**
 
