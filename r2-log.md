@@ -3,20 +3,21 @@
 ### **Today's Progress**
 
 - Coursera > Google Cloud Platform Fundamentals > Core Infrastracture
-- Coursera > Google IT Support > Technical Support Fundamentals
+- Udemy > The Modern React Bootcamp
+<!-- - Coursera > Google IT Support > Technical Support Fundamentals
 - Coursera > Agile Development > Agile Meets Design Thinking
 - Coursera > Java Programming and Software Engineering > Programming Foundations with JavaScript, HTML, and CSS
 - Coursera > Software Development Cycle > Lean Software Development
 - Coursera > Software Product Management > Introduction to Software Product Management
 - Coursera > Software Design and Architecture > Object-Oriented Design
 - Coursera > Software Testing and Automation > Welcome
-- Udemy > The Modern React Bootcamp
 - Hacker Rank
-- TypeScript
+- TypeScript -->
 
 ### **Thoughts**
 
 - Finished a portion of GCP Core Infrastracutures. There's still a lot more left for a 1 week course, and I plan to finish this this week. 2 more days to go.
+- Finished a portion of the colors app guided project. Feeling a little rusty coding in react and even JavaScript in general. I realize that it's really important to be coding everyday for me because.
 
 ### **Links**
 
