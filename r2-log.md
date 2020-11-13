@@ -1,3 +1,36 @@
+## Day 48. November 13, 2020.
+
+### **Today's Progress**
+
+- Udemy > The Modern React Bootcamp
+
+<!--
+- Coursera > Google Cloud Platform Fundamentals > Core Infrastracture
+- Coursera > Google IT Support > Technical Support Fundamentals
+- Coursera > Agile Development > Agile Meets Design Thinking
+- Coursera > Java Programming and Software Engineering > Programming Foundations with JavaScript, HTML, and CSS
+- Coursera > Software Development Cycle > Lean Software Development
+- Coursera > Software Product Management > Introduction to Software Product Management
+- Coursera > Software Design and Architecture > Object-Oriented Design
+- Coursera > Software Testing and Automation > Welcome
+- Hacker Rank
+- TypeScript -->
+
+### **Thoughts**
+
+- Did a good portion of Colors App project. I'm currenty learning towards bingeing this project to completion. But I really don't want to lose the knowledge I've stacked from the other courses. Either way, I'll get through the rest of this project and the others in due time.
+
+### **Links**
+
+[Codewars Profile](https://www.codewars.com/users/djma777)  
+[HackerRank Profile](https://www.hackerrank.com/djma777)  
+[Udemy Project > Colors App: Github Repo](https://github.com/djma777/colors-app)  
+[Udemy Project > Colors App: Netlify App](https://colors-appp.netlify.app/)  
+[DJ Asuncion](https://www.djasuncion.com/)  
+[You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
+
+---
+
 ## Day 47. November 11, 2020.
 
 ### **Today's Progress**
@@ -18,6 +51,7 @@
 
 - Finished a portion of GCP Core Infrastracutures. There's still a lot more left for a 1 week course, and I plan to finish this this week. 2 more days to go.
 - Finished a portion of the colors app guided project. Feeling a little rusty coding in react and even JavaScript in general. I realize that it's really important to be coding everyday for me because.
+  - had to fix a few bugs
 
 ### **Links**
 
