@@ -3,6 +3,7 @@
 ### **Today's Progress**
 
 - Udemy > The Modern React Bootcamp
+- Coursera > Project Management & Other Tools for Career Development > Initiating and Planning Projects
 
 <!--
 - Coursera > Google Cloud Platform Fundamentals > Core Infrastracture
@@ -19,6 +20,7 @@
 ### **Thoughts**
 
 - Did a portion of the Colors App. A long ways to go. Very excited of the progress and the ease of experience with my new setup. Very happy!
+- Starting Project Management Course. Man, I think I need to buy this really expensive book over \$100 PMBOK. The shipping! At the moment I couldn't find a shop where it's available here in the Philippines. I will continue to research and hopefully find one not so expensive.
 
 ### **Links**
 
