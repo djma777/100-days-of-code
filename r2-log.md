@@ -1,11 +1,11 @@
-## Day 51. November 18, 2020.
+## Day 52. November 19, 2020.
 
 ### **Today's Progress**
 
 - Udemy > The Modern React Bootcamp
+- Coursera > Java Programming and Software Engineering > Programming Foundations with JavaScript, HTML, and CSS
 
 <!--
-- Coursera > Java Programming and Software Engineering > Programming Foundations with JavaScript, HTML, and CSS
 - Coursera > Project Management & Other Tools for Career Development > Initiating and Planning Projects
 - Coursera > Google Cloud Platform Fundamentals > Core Infrastracture
 - Coursera > Google IT Support > Technical Support Fundamentals
@@ -20,6 +20,7 @@
 ### **Thoughts**
 
 - Did a bit of the Colors App. There were a few sections that I still listened to but didn't follow. Those sections were about refactoring the styling of components. Since the course is using Material-UI's design system and I am using styled-components instead, I'm not refactoring any of my stylings.
+- Did a few lessons. Altho skipped a lot of content because I already know most of the content I skipped.
 
 ### **Links**
 
