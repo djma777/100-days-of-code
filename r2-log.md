@@ -19,6 +19,40 @@
 
 ### **Thoughts**
 
+- Did a bit of the Colors App. There were a few sections that I still listened to but didn't follow. Those sections were about refactoring the styling of components. Since the course is using Material-UI's design system and I am using styled-components instead, I'm not refactoring any of my stylings.
+
+### **Links**
+
+[Codewars Profile](https://www.codewars.com/users/djma777)  
+[HackerRank Profile](https://www.hackerrank.com/djma777)  
+[Udemy Project > Colors App: Github Repo](https://github.com/djma777/colors-app)  
+[Udemy Project > Colors App: Netlify App](https://colors-appp.netlify.app/)  
+[DJ Asuncion](https://www.djasuncion.com/)  
+[You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
+
+---
+
+## Day 51. November 18, 2020.
+
+### **Today's Progress**
+
+- Udemy > The Modern React Bootcamp
+
+<!--
+- Coursera > Java Programming and Software Engineering > Programming Foundations with JavaScript, HTML, and CSS
+- Coursera > Project Management & Other Tools for Career Development > Initiating and Planning Projects
+- Coursera > Google Cloud Platform Fundamentals > Core Infrastracture
+- Coursera > Google IT Support > Technical Support Fundamentals
+- Coursera > Agile Development > Agile Meets Design Thinking
+- Coursera > Software Development Cycle > Lean Software Development
+- Coursera > Software Product Management > Introduction to Software Product Management
+- Coursera > Software Design and Architecture > Object-Oriented Design
+- Coursera > Software Testing and Automation > Welcome
+- Hacker Rank
+- TypeScript -->
+
+### **Thoughts**
+
 - Did a good portion of the Colors App. Happy with progress.
 
 ### **Links**
